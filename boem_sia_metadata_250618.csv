@@ -1,0 +1,1028 @@
+﻿dissection.date,student.name,species,fish.id,site,collection.date,weight.g,tl.mm,sl.mm,fl.mm,liver,stomach.contents,note,ground,packaged,ran.on.ea
+8/27/24,Sam,Atlantic Bumper,ATB001,WO3,8/13/24,38.5,NA,NA,NA,Y,N,,Y,Y,Y
+11/12/24,Lindsey,Atlantic Bumper,ATB006,EO1,8/12/24,90.4,210,165,181,Y,Y,,Y,Y,Y
+11/15/24,Dannette,Atlantic Bumper,ATB007,EO1,8/12/24,40.3,157,129,145,Y,Y,,Y,Y,Y
+11/15/24,Dannette,Atlantic Bumper,ATB008,WO3,8/13/24,34,152,128,138,Y,Y,,Y,Y,Y
+11/15/24,EG,Atlantic Bumper,ATB009,WO3,8/13/24,40.8,160,124,138,Y,Y,,Y,Y,Y
+11/15/24,Dannette,Atlantic Bumper,ATB010,WO3,8/13/24,42.2,168,130,144,Y,Y,,Y,Y,Y
+11/15/24,Dannette,Atlantic Bumper,ATB011,WO3,8/13/24,38.5,160,130,140,Y,Y,,Y,Y,Y
+11/15/24,EG,Atlantic Bumper,ATB012,WO3,8/13/24,38.7,165,133,141,Y,Y,,Y,Y,Y
+11/15/24,Dannette,Atlantic Bumper,ATB013,WO3,8/13/24,37.7,162,124,140,Y,Y,,Y,Y,Y
+11/15/24,EG,Atlantic Bumper,ATB014,WO3,8/13/24,44,162,128,139,Y,Y,,Y,Y,Y
+11/15/24,Dannette,Atlantic Bumper,ATB015,WO3,8/13/24,38.7,159,127,143,Y,Y,,Y,Y,Y
+11/15/24,EG,Atlantic Bumper,ATB016,WO3,8/13/24,36.5,160,125,136,Y,Y,,Y,Y,Y
+11/15/24,EG,Atlantic Bumper,ATB017,WI3,8/13/24,40.6,164,130,141,Y,Y,,Y,Y,Y
+11/18/24,EG,Atlantic Bumper,ATB018,EI2,8/12/24,36.8,161,126,134,Y,Y,,Y,Y,Y
+11/18/24,EG,Atlantic Bumper,ATB019,EI2,8/12/24,56,181,141,152,Y,Y,,Y,Y,Y
+11/18/24,EG,Atlantic Bumper,ATB020,EI2,8/12/24,85.1,215,160,180,Y,Y,,Y,Y,Y
+11/19/24,Lindsey,Atlantic Bumper,ATB021,WI2,8/13/24,40,163,132,145,Y,Y,,Y,Y,Y
+12/11/24,Sam,Atlantic Bumper,ATB023,WI1,8/13/24,46.9,172,122,146,Y,mush 0.2,,Y,Y,Y
+12/16/24,Sam,Croaker,CRO001,WO2,8/13/24,23.4,161,131,NA,Y,"shell/detritus, small crab",,Y,Y,Y
+1/29/25,Cole,Croaker,CRO002,WI1,8/13/24,46.9,164,129,NA,Y,mush,,Y,Y,Y
+1/29/25,Sam,Croaker,CRO003,WI1,8/13/24,39.9,160,126,NA,Y,mush,,Y,Y,Y
+1/29/25,Lindsey,Croaker,CRO004,WI1,8/13/24,49.3,166,132,NA,Y,mush,,Y,Y,Y
+1/29/25,Lindsey,Croaker,CRO005,WI1,8/13/24,45.9,160,128,NA,Y,mush,,Y,Y,Y
+1/29/25,Lindsey,Croaker,CRO006,WI1,8/13/24,38.7,151,121,NA,Y,mush,,Y,Y,Y
+1/29/25,Lindsey,Croaker,CRO007,WI1,8/13/24,45.8,164,130,NA,Y,mush,,Y,Y,Y
+1/29/25,Lindsey,Croaker,CRO008,WI1,8/13/24,46.2,166,133,NA,Y,mush,,Y,Y,Y
+1/29/25,Lindsey,Croaker,CRO009,WI1,8/13/24,37.4,156,126,NA,Y,mush,,Y,Y,Y
+1/31/25,Cole,Croaker,CRO010,WI2,8/13/24,37.3,152,120,-,Y,mush,,Y,Y,Y
+1/31/25,Cole,Croaker,CRO011,WI2,8/13/24,85.7,202,157,-,Y,mush,,Y,Y,Y
+1/31/25,Cole,Croaker,CRO012,WI2,8/13/24,63.9,188,145,-,Y,shrimp larva,,Y,Y,Y
+1/31/25,Cole,Croaker,CRO013,WI2,8/13/24,106,216,169,-,Y,mush/sea star?,,Y,Y,Y
+1/31/25,Cole,Croaker,CRO014,WI2,8/13/24,50.3,163,129,-,Y,mush/shrimp larva,,Y,Y,Y
+1/31/25,Cole,Croaker,CRO015,WI2,8/13/24,67.5,185,147,-,Y,sea star?,,Y,Y,Y
+2/3/25,Cole,Croaker,CRO016,WI2,8/13/24,97.4,210,165,-,Y,mush,,Y,Y,Y
+2/3/25,Cole,Croaker,CRO017,WI2,8/13/24,68,185,143,-,Y,mush/sea star?,,Y,Y,Y
+2/3/25,Cole,Croaker,CRO018,WI2,8/13/24,79.8,200,159,-,Y,mush,,Y,Y,Y
+2/3/25,EG,Croaker,CRO019,WI2,8/13/24,71.1,185,145,-,Y,mush,,Y,Y,Y
+2/3/25,EG,Croaker,CRO020,EI1,8/12/24,54.4,177,140,-,Y,-,,Y,Y,Y
+2/3/25,Dannette,Croaker,CRO021,EI1,8/12/24,46.7,164,130,-,Y,-,,Y,Y,Y
+11/11/24,EG,Atlantic Bumper,ATB002,EI1,5/22/24,46,174,131,144,Y,Y,All photos labeled incorrectly as BUN001,Y,Y,Y
+11/11/24,EG,Atlantic Bumper,ATB003,EI1,5/22/24,53.7,180,138,153,Y,Y,First photo labeled incorrectly as BUN002,Y,Y,Y
+11/11/24,EG,Atlantic Bumper,ATB004,EI1,5/22/24,42.7,169,127,139,Y,Y,,Y,Y,Y
+11/11/24,EG,Atlantic Bumper,ATB005,EI1,5/22/24,56,185,134,152,Y,Y,,Y,Y,Y
+2/3/25,EG,Croaker,CRO022,WO2,8/13/24,83.5,197,160,-,Y,shrimp larvae,,Y,Y,Y
+2/3/25,Dannette,Croaker,CRO023,WO2,8/13/24,102.3,210,170,-,Y,-,,Y,Y,Y
+2/3/25,Dannette,Croaker,CRO024,WO2,8/13/24,55.6,175,142,-,Y,mush,,Y,Y,Y
+2/3/25,EG,Croaker,CRO025,WO2,8/13/24,69.8,181,140,-,Y,mush,,Y,Y,Y
+2/3/25,Dannette,Croaker,CRO026,WO2,8/13/24,54.9,175,140,-,Y,mush,,Y,Y,Y
+2/3/25,EG,Croaker,CRO027,EI2,5/22/24,51.9,178,140,-,Y,-,,Y,Y,Y
+2/3/25,Dannette,Croaker,CRO028,EI2,5/22/24,53.1,170,135,-,Y,-,,Y,Y,Y
+2/3/25,EG,Croaker,CRO029,EI2,5/22/24,67.4,175,140,-,Y,mush,,Y,Y,Y
+2/3/25,Dannette,Croaker,CRO030,EI2,5/22/24,61.7,183,146,-,Y,-,,Y,Y,Y
+2/3/25,EG,Croaker,CRO031,EI2,5/22/24,72.4,190,150,-,Y,mush,,Y,Y,Y
+2/3/25,Dannette,Croaker,CRO032,EI2,5/22/24,60.2,177,140,-,Y,-,,Y,Y,Y
+2/3/25,EG,Croaker,CRO033,EI2,5/22/24,49.2,174,140,-,Y,-,,Y,Y,Y
+2/4/25,Cole,Croaker,CRO034,EI2,5/22/24,51.6,171,137,-,Y,mush,,Y,Y,Y
+2/4/25,Cole,Croaker,CRO035,EI2,5/22/24,79.5,196,154,-,Y,-,,Y,Y,Y
+2/4/25,Cole,Croaker,CRO036,EI2,5/22/24,51.4,178,140,-,-,mush,,Y,Y,Y
+2/4/25,Cole,Croaker,CRO037,EI1,5/22/24,34.7,152,119,-,Y,mush,,Y,Y,Y
+2/4/25,Cole,Croaker,CRO038,EI1,5/22/24,90.1,211,164,-,Y,-,,Y,Y,Y
+2/4/25,Cole,Croaker,CRO039,EI1,5/22/24,48.8,170,30,-,Y,shrimp,,Y,Y,Y
+2/5/25,Cole,Croaker,CRO040,EI1,5/22/24,31.7,152,118,-,Y,mush,,Y,Y,Y
+2/5/25,Cole,Croaker,CRO041,EI1,5/22/24,32,153,116,-,Y,mush & crab (found in lower intestine),,Y,Y,Y
+2/5/25,Cole,Croaker,CRO042,EI1,5/22/24,36.6,157,124,-,Y,mush,,Y,Y,Y
+2/5/25,Cole,Croaker,CRO043,EI1,5/22/24,43.6,168,129,-,Y,worm?,,Y,Y,Y
+2/5/25,Lindsey,Croaker,CRO044,EI1,5/22/24,25.6,139,107,-,Y,mush,,Y,Y,Y
+2/5/25,Lindsey,Croaker,CRO045,EI1,5/22/24,31.4,157,121,-,Y,mush,,Y,Y,Y
+2/5/25,Lindsey,Croaker,CRO046,WO2,5/23/24,61.1,185,145,-,Y,mush,,Y,Y,Y
+2/5/25,Lindsey,Croaker,CRO047,WO2,5/23/24,57.3,175,136,-,Y,mush,,Y,Y,Y
+2/5/25,Lindsey,Croaker,CRO048,WO2,5/23/24,77.6,195,155,-,Y,mush,,Y,Y,Y
+2/6/25,Cole,Croaker,CRO049,WO2,5/23/24,55.6,178,140,-,Y,mush/slit?,,Y,Y,Y
+2/6/25,Cole,Croaker,CRO050,WO2,5/23/24,46.1,171,134,-,Y,shrimp larva?,,Y,Y,Y
+2/6/25,Cole,Croaker,CRO051,WO2,5/23/24,76.6,193,153,-,Y,-,,Y,Y,Y
+2/6/25,Cole,Croaker,CRO052,WO2,5/23/24,56,179,141,-,Y,-,,Y,Y,Y
+2/6/25,Cole,Croaker,CRO053,WO2,5/23/24,39.1,164,125,-,Y,shrimp larva?,,Y,Y,Y
+2/6/25,Cole,Croaker,CRO054,WO2,5/23/24,47.3,169,132,-,Y,mush,,Y,Y,Y
+2/7/25,Cole,Croaker,CRO055,WI1,11/8/24,43.3,163,125,-,Y,crab?,,Y,Y,Y
+2/13/25,Cole,Lizardfish,LIZ001,EO2,5/22/24,98.2,261,219,239,Y,crustacean,,Y,Y,Y
+2/13/25,Cole,Lizardfish,LIZ002,EI2,5/22/24,124.3,276,229,251,Y,striped anchovy,,Y,Y,Y
+2/19/25,EG,Lizardfish,LIZ005,WO1,5/23/24,110,265,227,244,Y,fish,,Y,Y,Y
+2/19/25,Cole,Lizardfish,LIZ007,WI2,5/23/24,96.4,254,210,232,Y,shrimp,,Y,Y,Y
+2/24/25,Cole,Lizardfish,LIZ018,WI3,5/23/24,59.7,226,190,206,Y,shrimp,,Y,,
+11/18/24,EG,Moonfish,MOF001,EI2,8/12/24,174.8,230,185,201,Y,Y,,Y,Y,Y
+12/16/24,Sam,Moonfish,MOF002,WO2,5/23/24,57.6,158,129,138,Y,N,,Y,Y,Y
+2/7/25,Cole,Croaker,CRO056,WI1,11/8/24,79.4,198,156,-,Y,Shrimp & something purple (organic),,Y,Y,Y
+2/7/25,Cole,Croaker,CRO057,WI1,11/8/24,33.8,153,119,-,Y,shrimp/sea star/fish mush(bones)/worm?,,Y,Y,Y
+2/7/25,Cole,Croaker,CRO058,WI1,11/8/24,57.1,175,138,-,Y,worm?,,Y,Y,Y
+2/19/25,EG,Lizardfish,LIZ006,WI1,8/13/24,40.8,195,166,175,Y,mush & grass?,,Y,Y,Y
+12/16/24,Sam,Moonfish,MOF003,WO2,5/23/24,44.7,149,119,129,Y,larvae,,Y,Y,Y
+12/16/24,Sam,Moonfish,MOF004,WO2,5/23/24,56.3,155,126,136,Y,larvae,,Y,Y,Y
+12/16/24,Sam,Moonfish,MOF005,WO2,5/23/24,54.6,158,124,134,Y,larvae,,Y,Y,Y
+12/16/24,Sam,Moonfish,MOF006,WO2,5/23/24,55.2,159,127,138,Y,N,,Y,Y,Y
+2/24/25,Cole,Pigfish,PIG003,WO2,8/13/24,59.1,168,127,153,Y,-,,Y,Y,Y
+2/24/25,Cole,Pigfish,PIG004,WI1,8/13/24,59.8,169,132,155,Y,-,,Y,Y,Y
+2/25/25,Cole,Pigfish,PIG005,WI2,8/13/24,73.9,181,144,169,Y,-,,Y,Y,Y
+2/25/25,Cole,Pigfish,PIG006,WI2,8/13/24,621,169,135,158,Y,mollusk?,,Y,Y,Y
+2/25/25,Cole,Pigfish,PIG007,WO1,8/13/24,139.6,225,182,214,Y,mush,,Y,Y,Y
+12/17/24,Sam,Moonfish,MOF007,WO2,5/23/24,35.8,136,113,122,Y,larvae,,Y,Y,Y
+12/17/24,Sam,Moonfish,MOF008,WO2,5/23/24,41.4,146,119,126,Y,mush,,Y,Y,Y
+12/17/24,Sam,Moonfish,MOF009,WO2,5/23/24,50.6,153,123,134,Y,larvae,,Y,Y,Y
+12/17/24,Sam,Moonfish,MOF010,WO2,5/23/24,45.4,144,117,126,Y,larvae,,Y,Y,Y
+12/17/24,Sam,Moonfish,MOF011,WO2,5/23/24,51.2,160,132,141,Y,mush,,Y,Y,Y
+12/17/24,Sam,Moonfish,MOF012,WO3,8/13/24,78.4,170,140,149,Y,shrimp and shrimp larvae,,Y,Y,Y
+12/17/24,Sam,Moonfish,MOF013,EI1,5/22/24,29.4,130,104,113,Y,larval mush,,Y,Y,Y
+1/9/25,Sam,Moonfish,MOF014,WI1,11/8/24,14.3,102,82,89,Y,-,,Y,Y,Y
+1/9/25,Cole,Moonfish,MOF015,WI1,11/8/24,9.2,82,62,72,N,mush,,Y,Y,Y
+1/9/25,Sam,Moonfish,MOF016,WI1,11/8/24,11.2,95,75,83,Y,-,,Y,Y,Y
+8/30/24,Sam,Pinfish,PIN001,WO2,8/13/24,45.9,145,114,132,Y,N,2nd defrost,Y,Y,Y
+8/30/24,Sam,Pinfish,PIN002,WO2,8/13/24,39.7,152,132,125,Y,stomach mush,,Y,Y,Y
+9/3/24,Sam,Pinfish,PIN003,WO2,8/13/24,59.1,155,157,144,Y,N,,Y,Y,Y
+9/3/24,Dannette,Pinfish,PIN004,WO2,8/13/24,41.4,140,114,130,Y,N,,Y,Y,Y
+9/3/24,Lindsey,Pinfish,PIN005,WO2,8/13/24,71.3,NA,141,NA,Y,N,Tail missing,Y,Y,Y
+9/3/24,Lindsey,Pinfish,PIN006,WO2,8/13/24,36.7,137,110,126,Y,N,,Y,Y,Y
+9/6/24,Sam,Pinfish,PIN007,WO2,8/13/24,33.2,128,100,115,Y,N,,Y,Y,Y
+9/6/24,Sam,Pinfish,PIN008,WO2,8/13/24,43.7,143,110,132,Y,N,,Y,Y,Y
+9/6/24,Sam,Pinfish,PIN009,WO2,8/13/24,35.3,130,100,118,Y,N,,Y,Y,Y
+9/6/24,EG,Pinfish,PIN010,WO2,8/13/24,30.8,127,101,117,Y,N,,Y,Y,Y
+9/6/24,EG,Pinfish,PIN011,WO1,8/13/24,41.6,132,103,115,Y,N,,Y,Y,Y
+9/6/24,EG,Pinfish,PIN012,WO1,8/13/24,67.2,166,121,145,Y,N,,Y,Y,Y
+1/9/25,Cole,Moonfish,MOF017,WI1,11/8/24,12.9,100,78,88,N,-,,Y,Y,Y
+1/9/25,Sam,Moonfish,MOF018,WI1,11/8/24,12.5,98,81,85,Y,-,,Y,Y,Y
+1/9/25,Cole,Moonfish,MOF019,WI1,11/8/24,8.4,86,66,75,N,mush,,Y,Y,Y
+1/9/25,Sam,Moonfish,MOF020,WI1,11/8/24,6.6,71,61,68,N,larval mush,,Y,Y,Y
+1/9/25,Cole,Moonfish,MOF021,WO2,11/8/24,18.6,115,86,98,Y,mush,,Y,Y,Y
+1/9/25,Sam,Moonfish,MOF022,WO2,11/8/24,20.9,119,92,99,Y,larval mush,,Y,Y,Y
+1/9/25,Cole,Moonfish,MOF023,WO2,11/8/24,33.1,136,104,118,Y,-,,Y,Y,Y
+2/24/25,Sam,Pigfish,PIG001,EO3,5/22/24,92.8,185,152,176,Y,mush,,Y,Y,Y
+2/24/25,Sam,Pigfish,PIG002,EI1,5/22/24,93.3,190,150,178,Y,mush,,Y,Y,Y
+9/6/24,EG,Pinfish,PIN013,WO1,8/13/24,66.7,163,127,149,Y,N,,Y,Y,Y
+9/9/24,EG,Pinfish,PIN014,WO1,8/13/24,36.4,135,105,119,Y,N,liver digested/attached to stomach,Y,Y,Y
+9/9/24,EG,Pinfish,PIN015,WO1,8/13/24,36.9,135,104,124,Y,N,,Y,Y,Y
+9/9/24,EG,Pinfish,PIN016,WO1,8/13/24,98.8,178,135,161,Y,N,,Y,Y,Y
+9/9/24,EG,Pinfish,PIN017,WO1,8/13/24,77.9,184,142,163,Y,N,,Y,Y,Y
+9/10/24,EG,Pinfish,PIN018,WO1,8/13/24,79.9,174,139,159,Y,N,,Y,Y,Y
+9/10/24,EG,Pinfish,PIN019,WO1,8/13/24,28.6,123,99,113,Y,N,,Y,Y,Y
+9/10/24,Sam,Pinfish,PIN020,WO1,8/13/24,38.2,138,109,129,N,N,no liver/digested,Y,Y,Y
+9/20/24,Dannette,Pinfish,PIN021,EO1,5/22/24,69.4,165,130,155,Y,N,,Y,Y,Y
+9/20/24,Dannette,Pinfish,PIN022,EO1,5/22/24,76.1,175,137,162,Y,N,,Y,Y,Y
+9/20/24,Dannette,Pinfish,PIN023,EO1,5/22/24,70.3,175,130,155,Y,N,small gonads,Y,Y,Y
+9/20/24,EG,Pinfish,PIN024,EO1,5/22/24,80,180,135,162,Y,N,,Y,Y,Y
+9/20/24,Dannette,Pinfish,PIN025,EO1,5/22/24,79.1,179,134,165,Y,N,,Y,Y,Y
+9/20/24,Dannette,Pinfish,PIN026,EO1,5/22/24,73.3,173,135,159,Y,N,,Y,Y,Y
+9/20/24,EG,Pinfish,PIN027,EO1,5/22/24,73.3,175,136,160,Y,N,,Y,Y,Y
+9/20/24,EG,Pinfish,PIN028,EO1,5/22/24,69.9,169,133,153,Y,N,,Y,Y,Y
+9/20/24,EG,Pinfish,PIN029,EO1,5/22/24,67.2,178,127,151,Y,N,,Y,Y,Y
+9/20/24,EG,Pinfish,PIN030,EO1,5/22/24,71.7,171,136,156,Y,N,,Y,Y,Y
+9/20/24,EG,Pinfish,PIN031,WO1,5/23/24,64.2,165,129,156,Y,N,,Y,Y,Y
+9/23/24,EG,Pinfish,PIN032,WO1,5/23/24,58.3,154,119,134,Y,N,,Y,Y,Y
+9/23/24,EG,Pinfish,PIN033,WO1,5/23/24,63.7,159,126,136,Y,N,,Y,Y,Y
+9/23/24,EG,Pinfish,PIN034,WO1,5/23/24,35.2,133,103,122,Y,N,,Y,Y,Y
+9/23/24,EG,Pinfish,PIN035,WO1,5/23/24,23.6,115,92,106,Y,N,,Y,Y,Y
+9/23/24,EG,Pinfish,PIN036,WO1,5/23/24,77.8,180,134,157,Y,N,,Y,,
+9/24/24,Dannette,Pinfish,PIN037,WO1,5/23/24,69.9,166,128,152,Y,N,,Y,,
+9/24/24,Lindsey,Pinfish,PIN038,WO1,5/23/24,72.3,170,132,153,Y,N,,Y,,
+9/24/24,Dannette,Pinfish,PIN039,WO1,5/23/24,83.8,178,135,160,Y,N,,Y,,
+9/24/24,Lindsey,Pinfish,PIN040,WO1,5/23/24,61.6,160,125,148,Y,N,,Y,,
+9/24/24,Lindsey,Pinfish,PIN041,EO2,8/12/24,100.1,197,155,180,Y,N,,Y,,
+9/24/24,Dannette,Pinfish,PIN042,EO2,8/12/24,77.3,177,136,159,Y,N,,Y,,
+9/24/24,Dannette,Pinfish,PIN043,EO3,5/22/24,67.6,180,137,160,Y,N,,Y,,
+9/24/24,Lindsey,Pinfish,PIN044,EO3,5/22/24,86,186,148,172,Y,N,,Y,,
+9/24/24,Dannette,Pinfish,PIN045,EO3,5/22/24,61.7,170,129,152,Y,N,,Y,,
+9/24/24,Lindsey,Pinfish,PIN046,EO3,5/22/24,80,179,138,165,Y,N,,Y,,
+9/24/24,Lindsey,Pinfish,PIN047,EO3,5/22/24,72.2,187,144,159,Y,N,,Y,,
+9/27/24,EG,Pinfish,PIN048,EO3,5/22/24,74.5,174,136,160,Y,N,liver partially digested,Y,,
+9/27/24,EG,Pinfish,PIN049,EO3,5/22/24,67.9,160,127,149,Y,N,,Y,,
+9/27/24,EG,Pinfish,PIN050,EO3,5/22/24,83.1,184,145,169,Y,N,,Y,,
+9/27/24,EG,Pinfish,PIN051,EO3,5/22/24,79.1,180,144,164,Y,N,,Y,,
+9/30/24,EG,Pinfish,PIN052,EO3,5/22/24,64.2,164,130,154,Y,N,,Y,,
+9/30/24,EG,Pinfish,PIN053,WO2,5/23/24,25,118,95,108,Y,N,,Y,,
+9/30/24,EG,Pinfish,PIN054,WO2,5/23/24,29.6,123,97,115,Y,N,,Y,,
+9/30/24,EG,Pinfish,PIN055,WO2,5/23/24,20.4,108,85,99,Y,N,,Y,,
+10/1/24,Dannette,Pinfish,PIN056,EI1,8/12/24,41.7,135,117,121,Y,N,,Y,,
+10/1/24,Lindsey,Pinfish,PIN057,EI1,8/12/24,67.8,175,140,158,Y,N,,Y,,
+10/1/24,Dannette,Pinfish,PIN058,EI1,8/12/24,33.4,130,97,117,Y,N,,Y,,
+10/1/24,Lindsey,Pinfish,PIN059,EI1,8/12/24,66.9,176,142,162,Y,N,,Y,,
+10/1/24,Dannette,Pinfish,PIN060,EI1,8/12/24,58.7,175,134,155,Y,N,,Y,,
+10/1/24,Lindsey,Pinfish,PIN061,EI1,8/12/24,36.8,134,105,122,Y,N,,Y,,
+10/1/24,Lindsey,Pinfish,PIN062,EI1,8/12/24,46.1,141,115,134,Y,N,,Y,,
+10/1/24,Lindsey,Pinfish,PIN063,EI1,8/12/24,30.9,128,105,122,Y,N,,Y,,
+10/4/24,Dannette,Pinfish,PIN064,EI2,8/12/24,67,170,127,155,Y,N,,Y,,
+10/4/24,Dannette,Pinfish,PIN065,EI2,8/12/24,69.7,175,134,159,Y,N,,Y,,
+10/4/24,Dannette,Pinfish,PIN066,EI2,8/12/24,85.5,186,143,170,Y,N,,Y,,
+10/4/24,Dannette,Pinfish,PIN067,EI2,8/12/24,85.6,190,145,171,Y,N,,Y,,
+10/4/24,Dannette,Pinfish,PIN068,EI2,8/12/24,68.7,179,139,162,Y,N,,Y,,
+10/4/24,EG,Pinfish,PIN069,EI2,5/22/24,61.2,161,126,141,Y,N,,Y,,
+10/4/24,Dannette,Pinfish,PIN070,EI2,5/22/24,55.9,159,120,142,Y,N,,Y,,
+10/4/24,EG,Pinfish,PIN071,EI2,5/22/24,49.4,152,121,132,Y,N,,Y,,
+10/4/24,Dannette,Pinfish,PIN072,EI2,5/22/24,65.3,170,129,155,Y,Larval fish found,,Y,,
+10/4/24,EG,Pinfish,PIN073,EI2,5/22/24,68.8,170,132,163,Y,N,,Y,,
+10/4/24,EG,Pinfish,PIN074,EI2,5/22/24,56.4,151,119,131,Y,N,,Y,,
+10/4/24,EG,Pinfish,PIN075,EI2,5/22/24,61.2,163,129,141,Y,N,,Y,,
+11/19/24,Dannette,Spot,SPO001,WI2,8/13/24,50.6,154,125,153,Y,Y,,Y,Y,Y
+11/19/24,Dannette,Spot,SPO002,WI2,8/13/24,40,144,113,139,Y,Y,,Y,Y,Y
+11/19/24,Lindsey,Spot,SPO003,WI2,8/13/24,53.4,166,125,155,Y,Y,No gonads,Y,Y,Y
+12/3/24,Dannette,Spot,SPO032,EI2,8/12/24,50.9,160,125,152,Y,N,,Y,Y,Y
+12/3/24,Lindsey,Spot,SPO033,EI2,8/12/24,47,155,123,149,Y,N,,Y,Y,Y
+12/3/24,Dannette,Spot,SPO034,EI2,8/12/24,41.8,155,122,146,Y,N,,Y,Y,Y
+12/3/24,Dannette,Spot,SPO037,EI1,8/12/24,47,155,123,148,Y,N,,Y,Y,Y
+12/3/24,Lindsey,Spot,SPO038,EI1,8/12/24,42.4,151,127,145,Y,N,,Y,Y,Y
+12/11/24,Sam,Spot,SPO048,WI1,8/13/24,31.9,139,112,135,Y,Shrimp larve <0.1,,Y,Y,Y
+12/11/24,Sam,Spot,SPO049,WI1,8/13/24,44.4,152,144,124,N,N,,Y,Y,Y
+12/11/24,Sam,Spot,SPO050,WI1,8/13/24,50.2,161,130,152,N,N,,Y,Y,Y
+12/11/24,Sam,Spot,SPO051,WI1,8/13/24,35,140,111,133,Y,mush <0.1,,Y,Y,Y
+11/19/24,Dannette,Atlantic Bumper,ATB022,WO2,11/8/24,14.7,113,90,101,Y,Y,,Y,Y,Y
+12/11/24,Sam,Spot,SPO052,WI1,8/13/24,27.1,128,102,122,N,larvae <0.1,,Y,Y,Y
+12/11/24,Sam,Spot,SPO053,WI1,8/13/24,29.5,131,107,127,N,N,,Y,Y,Y
+10/4/24,EG,Pinfish,PIN076,EI2,5/22/24,67.6,164,130,149,Y,N,,Y,,
+10/7/24,EG,Pinfish,PIN077,EI2,5/22/24,41.3,139,109,134,Y,N,,Y,,
+12/12/24,Sam,Spot,SPO054,WO2,8/13/24,38.4,148,117,142,Y,N,,Y,Y,Y
+12/12/24,Sam,Spot,SPO055,WO2,8/13/24,29.6,140,110,132,N,N,,Y,Y,Y
+10/7/24,EG,Pinfish,PIN078,EI2,5/22/24,69.6,173,130,154,Y,N,bloody muscle,Y,,
+10/7/24,EG,Pinfish,PIN079,WI2,8/13/24,52.1,145,114,131,Y,~8 anchovies ,,Y,,
+10/7/24,EG,Pinfish,PIN080,WI2,8/13/24,24.1,119,94,106,Y,N,,Y,,
+10/7/24,EG,Pinfish,PIN081,WO1,8/13/24,28.6,127,100,117,Y,N,,Y,,
+10/8/24,Dannette,Pinfish,PIN082,WO1,8/13/24,34.3,127,95,119,Y,2 Anchovies & 1 Shell,,Y,,
+10/8/24,Lindsey,Pinfish,PIN083,WO1,8/13/24,28.5,125,99,117,Y,Y,,Y,,
+10/8/24,Lindsey,Pinfish,PIN084,WO1,8/13/24,27.5,127,103,119,Y,Y,,Y,,
+10/8/24,Dannette,Pinfish,PIN085,WO1,8/13/24,37.6,132,104,120,Y,N,,Y,,
+10/8/24,Dannette,Pinfish,PIN086,WO1,8/13/24,27.5,125,94,113,Y,2 Anchovies,,Y,,
+10/8/24,Lindsey,Pinfish,PIN087,WO1,8/13/24,35.3,135,109,125,Y,Y,,Y,,
+10/8/24,Dannette,Pinfish,PIN088,WO1,8/13/24,36.1,135,101,123,Y,N,,Y,,
+10/8/24,Dannette,Pinfish,PIN089,WO1,8/13/24,32,133,97,119,Y,N,,Y,,
+10/8/24,Lindsey,Pinfish,PIN090,WO1,8/13/24,27.8,121,96,112,Y,2 Anchovies & 1 Shell,,Y,,
+10/14/24,EG,Pinfish,PIN091,EO2,5/22/24,84.5,168,131,151,Y,N,,Y,,
+10/14/24,EG,Pinfish,PIN092,EO2,5/22/24,72.8,174,136,150,Y,N,,Y,,
+10/14/24,EG,Pinfish,PIN093,EO2,5/22/24,67.7,160,126,146,Y,N,,Y,,
+10/14/24,EG,Pinfish,PIN094,EO2,5/22/24,74.1,172,137,155,Y,N,,Y,,
+11/22/24,EG,Spot,SPO023,WO2,11/8/24,89.8,177,140,171,Y,N,,Y,Y,Y
+11/22/24,EG,Spot,SPO024,WO2,11/8/24,72.4,185,146,175,Y,Y,,Y,Y,Y
+12/2/24,EG,Spot,SPO025,WO2,11/8/24,69.2,174,137,162,Y,Y,,Y,Y,Y
+12/2/24,EG,Spot,SPO026,WO2,11/8/24,81.7,183,144,176,Y,N,,Y,Y,Y
+12/2/24,EG,Spot,SPO027,WO2,11/8/24,73.1,168,135,166,Y,N,,Y,Y,Y
+12/2/24,EG,Spot,SPO028,WO2,11/8/24,72.3,178,140,164,Y,N,,Y,Y,Y
+12/2/24,EG,Spot,SPO029,WO2,11/8/24,86,185,150,160,Y,N,,Y,Y,Y
+12/3/24,Dannette,Spot,SPO030,WO2,11/8/24,76.8,176,140,173,Y,N,,Y,Y,Y
+12/12/24,Sam,Spot,SPO056,WO2,8/13/24,38.7,145,114,139,Y,N,,Y,Y,Y
+12/12/24,Sam,Spot,SPO057,WO2,8/13/24,28.4,139,112,133,N,N,,Y,Y,Y
+10/14/24,EG,Pinfish,PIN095,EO2,5/22/24,67,165,132,150,Y,N,,Y,,
+12/12/24,Sam,Spot,SPO058,WO2,8/13/24,40.8,148,120,140,Y,mush <0.1 & shrimp larvae <0.1,,Y,Y,Y
+12/3/24,Lindsey,Spot,SPO031,WO2,11/8/24,68,170,138,164,Y,N,,Y,Y,Y
+12/12/24,Sam,Spot,SPO059,WO2,8/13/24,47.8,160,132,155,Y,mush <0.1,,Y,Y,Y
+10/15/24,Dannette,Pinfish,PIN096,EO2,5/22/24,69.5,175,131,155,Y,N,,Y,,
+12/12/24,Sam,Spot,SPO060,WO2,8/13/24,28.2,132,118,127,N,mush <0.1,,Y,Y,Y
+12/3/24,Lindsey,Spot,SPO039,EO1,11/1/24,76.6,174,142,168,Y,N,,Y,Y,Y
+10/15/24,Lindsey,Pinfish,PIN097,EO2,5/22/24,73,170,135,155,Y,Y,,Y,,
+10/15/24,Dannette,Pinfish,PIN098,EO2,5/22/24,68.5,174,130,154,N,N,,Y,,
+10/15/24,Lindsey,Pinfish,PIN099,EO2,5/22/24,70.7,166,133,154,Y,Y,,Y,,
+11/5/24,Lindsey,Pinfish,PIN100,EI1,5/22/24,27.5,122,95,110,Y,Y,,Y,,
+11/8/24,Dannette,Pinfish,PIN101,EI1,5/22/24,23.1,118,94,110,Y,Y,,Y,,
+11/8/24,Dannette,Pinfish,PIN102,EI1,5/22/24,19.8,106,85,100,Y,Y,,Y,,
+12/12/24,Sam,Spot,SPO061,WO2,8/13/24,30.8,135,110,131,N,N,,Y,,
+12/16/24,Sam,Spot,SPO062,WO2,8/13/24,34.6,146,116,137,N,N,,Y,,
+10/22/24,Dannette,Striped Anchovy,STA013,EI1,8/12/24,2.4,70,60,67,N,N,,,,
+10/22/24,Lindsey,Striped Anchovy,STA014,EI1,8/12/24,3.1,77,64,74,Y,N,,,,
+10/22/24,Dannette,Striped Anchovy,STA015,EI1,8/12/24,3.3,76,61,66,N,N,,,,
+10/22/24,Lindsey,Striped Anchovy,STA016,EI1,8/12/24,2,67,53,58,Y,N,,,,
+10/25/24,Dannette,Striped Anchovy,STA017,EI1,8/12/24,2,65,55,60,N,N,,,,
+10/25/24,Sam,Striped Anchovy,STA018,EI1,8/12/24,2.5,71,59,63,N,N,,,,
+10/25/24,Dannette,Striped Anchovy,STA019,EI1,8/12/24,2.4,70,56,63,N,N,,,,
+10/25/24,EG,Striped Anchovy,STA020,EI1,8/12/24,1.9,110,55,59,N,N,,,,
+10/25/24,Dannette,Striped Anchovy,STA021,EI1,8/12/24,2.5,70,57,63,N,N,,,,
+12/10/24,Sam,Spot,SPO046,WI1,11/8/24,27.9,130,102,125,N,mush <0.1,,Y,Y,Y
+12/10/24,Sam,Spot,SPO047,WI1,11/8/24,22.1,119,95,116,N,N,,Y,Y,Y
+10/25/24,EG,Striped Anchovy,STA022,WO2,8/13/24,18.5,135,110,119,N,N,1 gonad found,,,
+10/25/24,EG,Striped Anchovy,STA023,WO2,8/13/24,17.2,130,107,114,N,N,,,,
+10/28/24,EG,Striped Anchovy,STA024,WO2,8/13/24,13.6,121,101,106,N,N,,,,
+10/28/24,EG,Striped Anchovy,STA025,WO2,8/13/24,11.8,119,97,104,N,N,,,,
+10/28/24,EG,Striped Anchovy,STA026,WO2,8/13/24,10.9,106,97,101,N,N,,,,
+10/28/24,EG,Striped Anchovy,STA027,WO2,8/13/24,11.1,116,95,106,N,N,,,,
+10/29/24,Dannette,Striped Anchovy,STA028,WO2,8/13/24,11.6,113,95,105,N,N,,,,
+10/29/24,Dannette,Striped Anchovy,STA029,WO2,8/13/24,11.9,114,93,106,N,N,,,,
+10/29/24,Dannette,Striped Anchovy,STA030,WO2,8/13/24,10.7,108,91,100,N,N,,,,
+11/1/24,EG,Striped Anchovy,STA031,WI2,8/13/24,12.1,115,95,102,N,N,,,,
+11/1/24,EG,Striped Anchovy,STA032,WI2,8/13/24,11.4,115,96,103,N,N,,,,
+11/1/24,EG,Striped Anchovy,STA033,WI2,8/13/24,16.5,129,106,114,N,N,,,,
+11/4/24,EG,Striped Anchovy,STA034,WI2,8/13/24,9.6,108,89,95,N,N,,,,
+11/4/24,EG,Striped Anchovy,STA035,WI2,8/13/24,10.5,112,92,98,N,N,,,,
+11/4/24,EG,Striped Anchovy,STA036,WI2,8/13/24,10.4,113,93,99,N,N,,,,
+11/5/24,Dannette,Striped Anchovy,STA037,WI2,8/13/24,2.9,75,59,66,N,N,no gonads,,,
+11/8/24,Dannette,Pinfish,PIN103,EI1,5/22/24,23.8,115,90,107,Y,Y,,Y,,
+11/8/24,Dannette,Pinfish,PIN104,EI1,5/22/24,22.6,110,89,105,Y,Y,,Y,,
+11/8/24,Dannette,Pinfish,PIN105,EI1,5/22/24,24.7,115,95,111,Y,Y,no gonads,Y,,
+11/12/24,Dannette,Pinfish,PIN106,EO1,8/12/24,90.3,195,155,180,Y,Y,,Y,,
+11/12/24,Lindsey,Pinfish,PIN107,EO1,8/12/24,95.4,197,158,177,Y,Y,,Y,,
+11/5/24,Lindsey,Striped Anchovy,STA038,WI1,8/13/24,13.1,121,101,106,N,N,,,,
+11/12/24,Dannette,Pinfish,PIN108,EO1,8/12/24,107.2,200,158,186,Y,Y,,Y,,
+11/12/24,Lindsey,Pinfish,PIN109,EO1,8/12/24,77.2,189,158,171,Y,Y,No gonads,Y,,
+11/12/24,Dannette,Pinfish,PIN110,EO1,8/12/24,80.5,186,143,170,Y,Y,,Y,,
+11/12/24,Lindsey,Pinfish,PIN111,EO1,8/12/24,66,175,135,156,Y,Y,,Y,,
+11/19/24,Lindsey,Spot,SPO004,EI2,5/22/24,72.2,178,140,168,Y,Y,,Y,Y,Y
+11/5/24,Dannette,Striped Anchovy,STA039,WI1,8/13/24,6.8,92,77,83,N,N,,,,
+11/19/24,Dannette,Spot,SPO005,EI2,5/22/24,74.9,180,143,171,Y,Y,,Y,Y,Y
+12/18/24,Sam,Atlantic Bumper,ATB024,EI2,11/1/24,37.5,160,129,142,Y,shrimp larvae,,Y,Y,Y
+12/18/24,Sam,Atlantic Bumper,ATB025,EI2,11/1/24,30.2,141,118,129,Y,shrimp ,,Y,Y,Y
+12/18/24,Sam,Spot,SPO063,WO1,11/8/24,86.4,181,143,159,Y,N,,Y,,
+12/18/24,Sam,Spot,SPO064,WO1,11/8/24,73.7,184,150,177,Y,Y,,Y,,
+12/18/24,Sam,Spot,SPO065,WO1,11/8/24,84.7,184,150,180,Y,N,,Y,,
+12/18/24,Sam,Spot,SPO066,WO1,11/8/24,81.6,183,148,176,Y,N,,Y,,
+12/18/24,Sam,Spot,SPO067,WO1,11/8/24,42.3,149,143,117,N,mush,,Y,,
+1/6/25,Sam,Pinfish,PIN112,WO1,11/8/24,58.1,157,122,145,Y,mush,,Y,,
+1/6/25,Sam,Pinfish,PIN113,WO1,11/8/24,69.9,164,130,151,Y,mush,,Y,,
+1/6/25,Cole,Pinfish,PIN114,WO1,11/8/24,48,142,112,131,Y,mush,,Y,,
+1/6/25,Sam,Pinfish,PIN115,WO1,11/8/24,77.2,170,134,157,Y,mush,,Y,,
+1/6/25,Cole,Pinfish,PIN116,WO1,11/8/24,55,153,121,136,Y,"clam, sea star, mush",,Y,,
+1/6/25,Cole,Pinfish,PIN117,WO1,11/8/24,63,162,118,144,Y,"2 crabs, mush, hermit crab?",,Y,,
+1/6/25,Sam,Pinfish,PIN118,WO1,11/8/24,80.4,176,137,155,Y,mush,,Y,,
+1/6/25,Cole,Pinfish,PIN119,WO1,11/8/24,47,143,108,129,Y,mush sand,,Y,,
+1/6/25,Sam,Pinfish,PIN120,WO1,11/8/24,79.9,170,135,156,Y,mush,,Y,,
+1/6/25,Cole,Pinfish,PIN121,WO1,11/8/24,52.8,153,118,138,Y,"mush, worm?",,Y,,
+1/7/25,Sam,Thread Herring,THH030,WO2,11/8/24,10.3,108,84,92,N,mush,,Y,Y,Re-run
+1/7/25,Cole,Thread Herring,THH031,WO2,11/8/24,15.6,120,92,103,N,mush,,Y,Y,Y
+1/7/25,Sam,Thread Herring,THH032,WO2,11/8/24,14.4,117,94,102,N,mush,,Y,Y,Y
+1/7/25,Cole,Thread Herring,THH033,WO2,11/8/24,18.1,125,97,106,N,mush,,Y,Y,Y
+1/7/25,Cole,Thread Herring,THH034,WO2,11/8/24,12.9,113,90,96,N,mush,,Y,Y,Y
+1/7/25,Cole,Thread Herring,THH035,WO2,11/8/24,6.5,94,74,79,N,mush,,Y,Y,Y
+1/7/25,Sam,Thread Herring,THH036,WO2,11/8/24,10,106,83,92,N,mush,,Y,Y,
+1/7/25,Cole,Thread Herring,THH037,WO2,11/8/24,10.6,105,81,88,N,mush,,Y,Y,
+1/7/25,Sam,Thread Herring,THH038,WO2,11/8/24,10.4,109,84,91,N,mush,,Y,Y,
+1/8/25,Sam,Thread Herring,THH039,WO1,11/8/24,24.2,138,109,117,N,mush,,Y,Y,
+1/8/25,Cole,Thread Herring,THH040,WO1,11/8/24,27.3,139,112,121,N,mush,,Y,Y,
+1/8/25,Cole,Thread Herring,THH041,WO1,11/8/24,19.3,126,96,106,N,mush,,Y,Y,
+1/8/25,Sam,Thread Herring,THH042,WO1,11/8/24,20.5,129,102,111,N,mush,,Y,Y,
+1/8/25,Cole,Thread Herring,THH043,WO1,11/8/24,10.9,106,84,91,N,mush,,Y,Y,
+1/8/25,Sam,Thread Herring,THH044,WO1,11/8/24,12,110,84,94,N,mush,,Y,Y,
+1/8/25,Cole,Thread Herring,THH045,WO1,11/8/24,15.4,119,91,99,N,mush,,Y,Y,
+1/8/25,Sam,Thread Herring,THH046,WO1,11/8/24,8.9,104,80,87,N,mush,,Y,Y,
+1/8/25,Cole,Thread Herring,THH047,WO1,11/8/24,19.5,129,99,110,N,mush,,Y,Y,
+1/9/25,Sam,Moonfish,MOF024,WO2,11/8/24,27.8,127,103,112,Y,-,,Y,Y,Y
+1/9/25,Cole,Moonfish,MOF025,WO2,11/8/24,18.2,110,84,93,Y,mush,,Y,Y,Y
+1/13/25,Cole,Moonfish,MOF026,WO1,11/8/24,19.6,117,89,99,Y,-,,Y,Y,Y
+1/13/25,Cole,Moonfish,MOF027,WO1,11/8/24,16.2,109,82,94,Y,Shrimp Larva?,,Y,Y,Y
+1/13/25,Cole,Moonfish,MOF028,WO1,11/8/24,16.4,110,82,92,Y,Shrimp Larva?,,Y,Y,Y
+1/13/25,EG,Moonfish,MOF029,WO1,11/8/24,27.9,138,110,120,Y,mush,,Y,Y,Y
+1/13/25,Cole,Moonfish,MOF030,WO1,11/8/24,17,110,85,96,Y,Shrimp Larva,,Y,Y,Y
+1/13/25,Dannette,Moonfish,MOF031,WO1,11/8/24,19.2,115,89,100,Y,Larval,,Y,Y,Y
+1/13/25,EG,Moonfish,MOF032,WO1,11/8/24,17.3,119,94,104,Y,mush,,Y,Y,Y
+1/13/25,EG,Moonfish,MOF033,WO1,11/8/24,15.8,106,85,93,Y,mush,,Y,Y,Y
+1/13/25,Dannette,Moonfish,MOF034,WO1,11/8/24,16.8,110,92,103,Y,mush,,Y,Y,Y
+1/13/25,EG,Moonfish,MOF035,WO1,11/8/24,14.6,108,86,94,Y,-,,Y,Y,Y
+1/10/25,Sam,Striped Anchovy,STA043,WO1,11/8/24,11.6,11.5,96,106,N,N,,,,
+1/10/25,Cole,Striped Anchovy,STA044,WO1,11/8/24,14.5,124,103,113,N,N,,,,
+1/10/25,Sam,Striped Anchovy,STA045,WO1,11/8/24,10.8,113,94,102,N,N,,,,
+1/10/25,Cole,Striped Anchovy,STA046,WO1,11/8/24,14.5,124,104,114,N,N,,,,
+1/10/25,Cole,Striped Anchovy,STA047,WO1,11/8/24,9.8,109,92,97,N,N,,,,
+1/10/25,Sam,Striped Anchovy,STA048,WO1,11/8/24,8.6,105,88,94,N,N,,,,
+1/10/25,Cole,Striped Anchovy,STA049,WO1,11/8/24,8.5,108,90,98,N,N,,,,
+1/10/25,Cole,Striped Anchovy,STA050,WO1,11/8/24,9.9,107,90,97,N,N,,,,
+1/10/25,Sam,Striped Anchovy,STA051,WO1,11/8/24,12.5,117,98,107,N,N,,,,
+1/10/25,Sam,Striped Anchovy,STA052,WO1,11/8/24,11.1,113,96,104,N,N,,,,
+1/15/25,Lindsey,Moonfish,MOF036,EI1,8/12/24,26.7,138,111,121,Y,mush,,Y,,
+1/15/25,Lindsey,Moonfish,MOF037,EI1,8/12/24,22.2,137,113,120,Y,mush,,Y,,
+1/28/25,Cole,Moonfish,MOF038,WI1,5/23/24,29.1,133,103,113,Y,shrimp larva?,,Y,,
+2/13/25,Cole,Moonfish,MOF039,EI2,5/22/24,114.7,210,159,181,Y,larval shrimp,,Y,,
+2/13/25,Cole,Moonfish,MOF040,EI2,5/22/24,84.7,182,140,158,Y,larval shrimp,,Y,,
+2/13/25,Cole,Moonfish,MOF041,EI2,5/22/24,46.4,155,116,133,Y,larval shrimp,,Y,,
+1/13/25,Dannette,Thread Herring,THH048,WI2,11/8/24,2.7,70,57,62,N,mush,,Y,Y,
+1/13/25,Dannette,Thread Herring,THH049,WI2,11/8/24,4.3,85,65,72,N,mush,,Y,Y,
+2/13/25,Cole,Moonfish,MOF042,EI2,5/22/24,33.1,140,108,120,Y,-,,Y,,
+2/13/25,Cole,Moonfish,MOF043,EI2,5/22/24,35.4,140,106,123,Y,-,,Y,,
+2/13/25,Cole,Moonfish,MOF044,EI2,5/22/24,31,135,104,116,Y,-,,Y,,
+2/24/25,Cole,Moonfish,MOF045,EO3,5/22/24,49,154,116,131,Y,shrimp larva,,Y,,
+1/13/25,EG,Thread Herring,THH050,WI2,11/8/24,3.6,79,65,70,N,mush,,Y,Y,
+1/14/25,Cole,Striped Anchovy,STA053,WI2,11/8/24,11.6,117,97,105,N,larval mush,,,,
+1/14/25,Cole,Striped Anchovy,STA054,WI2,11/8/24,11.2,116,97,106,N,-,,,,
+1/14/25,Cole,Striped Anchovy,STA055,WI2,11/8/24,10,111,93,98,N,larval mush,,,,
+1/14/25,Cole,Striped Anchovy,STA056,WI2,11/8/24,10.3,113,93,103,N,-,,,,
+1/14/25,Cole,Thread Herring,THH051,WI2,11/8/24,3,73,57,65,N,mush,,Y,Y,
+1/15/25,Cole,Striped Anchovy,STA057,WI2,11/8/24,8.3,106,88,98,N,mush,,,,
+1/15/25,Cole,Striped Anchovy,STA058,WI2,11/8/24,5.7,97,80,87,N,shrimp larva?,,,,
+1/15/25,Cole,Striped Anchovy,STA059,WI2,11/8/24,9.2,110,91,97,N,mush,,,,
+1/15/25,Cole,Striped Anchovy,STA060,WI2,11/8/24,9,107,87,94,N,-,,,,
+1/15/25,Lindsey,Striped Anchovy,STA061,WI2,11/8/24,8.8,109,92,102,N,-,,,,
+11/5/24,Lindsey,Striped Anchovy,STA040,WI1,8/13/24,3.1,75,62,71,N,N,,,,
+11/5/24,Dannette,Striped Anchovy,STA041,WI1,8/13/24,2.3,68,54,59,N,N,no gonads,,,
+11/12/24,Dannette,Striped Anchovy,STA042,EO1,8/12/24,<0.1,24,NA,NA,N,N,Whole fish--> no head,,,
+1/15/25,Lindsey,Striped Anchovy,STA063,EI1,8/12/24,2.2,69,56,65,N,-,,,,
+1/15/25,Cole,Striped Anchovy,STA064,EI1,8/12/24,0.2,38,32,35,N,-,,,,
+1/15/25,Cole,Striped Anchovy,STA065,EI1,8/12/24,0.4,-,40,-,N,-,,,,
+1/15/25,Cole,Striped Anchovy,STA066,EI1,8/12/24,0.1,42,35,38,N,-,,,,
+1/15/25,Cole,Striped Anchovy,STA067,EI1,8/12/24,0.3,39,33,-,N,-,,,,
+1/15/25,Cole,Striped Anchovy,STA062,WI2,11/8/24,8.1,108,91,96,N,mush,,,,
+1/15/25,Cole,Striped Anchovy,STA068,EI1,8/12/24,0.4,47,40,-,N,-,,,,
+1/15/25,Cole,Striped Anchovy,STA069,EI1,8/12/24,0.4,48,36,38,N,-,,,,
+1/16/25,Cole,Striped Anchovy,STA070,EI1,8/12/24,2.2,68,56,62,N,mush,"very small, very little muscle",,,
+1/16/25,Cole,Striped Anchovy,STA071,EI1,8/12/24,1.6,65,53,59,N,-,"very small, very little muscle",,,
+1/16/25,Cole,Striped Anchovy,STA072,EI1,8/12/24,1.8,65,55,58,N,mush,"very small, very little muscle",,,
+1/16/25,Cole,Striped Anchovy,STA073,EI1,8/12/24,1.4,59,50,53,N,-,"very small, very little muscle",,,
+1/16/25,Cole,Striped Anchovy,STA074,EI1,8/12/24,2.2,67,56,61,N,-,"very small, very little muscle",,,
+1/16/25,Cole,Striped Anchovy,STA075,EI1,8/12/24,2.1,69,57,62,N,-,"very small, very little muscle",,,
+1/16/25,Cole,Striped Anchovy,STA076,EI1,8/12/24,1.2,63,52,56,N,-,"very small, very little muscle",,,
+1/16/25,Cole,Striped Anchovy,STA077,EI1,8/12/24,1.6,59,50,55,N,-,"very small, very little muscle",,,
+1/17/25,Cole,Striped Anchovy,STA079,WI1,11/8/24,6.7,101,84,92,N,mush,,,,
+1/17/25,Cole,Striped Anchovy,STA080,WI1,11/8/24,7.5,103,84,94,N,mush,,,,
+1/17/25,Cole,Striped Anchovy,STA081,WI1,11/8/24,7.6,106,88,96,N,mush,,,,
+1/17/25,Cole,Striped Anchovy,STA082,EO1,11/1/24,7.5,105,86,94,N,-,,,,
+1/21/25,Cole,Striped Anchovy,STA083,EI1,11/1/24,7.8,103,86,94,N,-,,,,
+1/21/25,Cole,Striped Anchovy,STA084,EI1,11/1/24,6.8,102,83,90,N,-,,,,
+1/21/25,Cole,Striped Anchovy,STA085,EI1,11/1/24,10.6,114,96,105,N,-,,,,
+1/27/25,Cole,Striped Anchovy,STA086,EI1,11/1/24,6.8,101,85,92,N,-,,,,
+1/27/25,Cole,Striped Anchovy,STA087,EI1,11/1/24,8.7,107,90,96,N,-,,,,
+1/27/25,Cole,Striped Anchovy,STA088,EI1,11/1/24,11.3,114,96,104,N,-,,,,
+1/27/25,Cole,Striped Anchovy,STA089,EI1,11/1/24,7.1,102,86,92,N,-,,,,
+1/27/25,EG,Striped Anchovy,STA090,EI1,11/1/24,6,98,80,90,N,-,,,,
+1/27/25,Dannette,Thread Herring,THH052,WI1,11/8/24,16.4,130,97,104,N,mush,,Y,Y,
+1/27/25,Dannette,Thread Herring,THH053,WI1,11/8/24,14.2,120,92,101,N,mush,,Y,Y,
+1/27/25,EG,Thread Herring,THH054,WI1,11/8/24,12.1,110,90,99,N,mush,,Y,Y,
+1/27/25,Dannette,Thread Herring,THH055,WI1,11/8/24,21.3,134,103,110,Y,mush,Small Liver,Y,Y,
+1/27/25,Dannette,Striped Anchovy,STA091,EI1,11/1/24,7.4,102,86,92,N,-,,,,
+1/27/25,EG,Striped Anchovy,STA092,EI1,11/1/24,5.8,96,80,95,N,-,,,,
+1/27/25,EG,Thread Herring,THH056,WI1,11/8/24,11.1,109,80,95,N,mush,,Y,Y,
+1/27/25,Dannette,Thread Herring,THH057,WI1,11/8/24,11.7,115,87,95,N,mush,,Y,Y,
+11/19/24,Dannette,Spot,SPO006,EI2,5/22/24,74,167,135,163,Y,Y,,Y,Y,Y
+1/28/25,Cole,Striped Anchovy,STA093,WO2,11/8/24,8.6,108,90,96,N,-,,,,
+1/28/25,Cole,Striped Anchovy,STA094,WO2,11/8/24,10.4,114,96,101,N,-,,,,
+1/28/25,Cole,Thread Herring,THH058,WI1,11/8/24,11.5,112,88,98,N,mush,,Y,Y,
+1/28/25,Cole,Thread Herring,THH059,WI1,11/8/24,13.5,117,90,97,N,mush,,Y,Y,
+1/28/25,Cole,Thread Herring,THH060,WI1,11/8/24,15.9,121,95,104,N,mush,,Y,Y,
+1/16/25,Cole,Striped Anchovy,STA078,EI1,8/12/24,1.2,56,47,51,N,-,"very small, very little muscle",,,
+2/6/25,Sam,Striped Anchovy,STA103,WI2,8/13/24,0.6,44,39,42,N,,,,,
+2/6/25,Sam,Striped Anchovy,STA104,WI2,8/13/24,0.5,-,40,-,N,,,,,
+2/6/25,Sam,Striped Anchovy,STA105,WO3,8/13/24,1.3,63,54,55,N,,,,,
+9/10/24,Dannette,Thread Herring,THH001,EI1,8/12/24,82.3,205,160,175,Y,N,,Y,Y,Y
+9/10/24,Dannette,Thread Herring,THH002,EI1,8/12/24,120.5,220,165,184,Y,N,,Y,Y,Y
+9/10/24,EG,Thread Herring,THH003,EI1,8/12/24,40.2,164,123,135,Y,N,,Y,Y,Y
+9/10/24,Sam,Thread Herring,THH004,EI1,8/12/24,53.4,171,132,145,Y,N,,Y,Y,Y
+1/30/25,Cole,Striped Anchovy,STA095,WO2,11/8/24,7.8,105,88,96,N,mush,,,,
+1/30/25,Cole,Striped Anchovy,STA096,WO2,11/8/24,8,106,88,97,N,-,,,,
+1/30/25,Cole,Striped Anchovy,STA097,WO2,11/8/24,6.4,102,84,92,N,mush,,,,
+1/30/25,Cole,Striped Anchovy,STA098,WO2,11/8/24,9.2,110,91,98,N,-,,,,
+1/30/25,Cole,Striped Anchovy,STA099,WO2,11/8/24,8.2,107,87,94,N,mush,,,,
+1/30/25,Cole,Striped Anchovy,STA100,WO2,11/8/24,6.9,105,86,92,N,mush,visible bones in gut content,,,
+1/30/25,Cole,Striped Anchovy,STA101,WO2,11/8/24,9.6,112,95,104,N,-,,,,
+1/30/25,Cole,Striped Anchovy,STA102,WO2,11/8/24,9.4,108,91,96,N,-,,,,
+9/10/24,Dannette,Thread Herring,THH005,EI1,8/12/24,92.2,210,165,178,Y,N,,Y,Y,Y
+9/13/24,Dannette,Thread Herring,THH006,EI1,8/12/24,84.6,195,144,163,Y,N,,Y,Y,Y
+9/13/24,EG,Thread Herring,THH007,EI1,8/12/24,60.2,185,141,153,N,N,no liver/digested,Y,Y,Y
+9/13/24,Dannette,Thread Herring,THH008,EI1,8/12/24,11.1,110,85,94,N,N,no liver/digested,Y,Y,Y
+9/13/24,EG,Thread Herring,THH009,EI1,8/12/24,46.1,170,131,141,Y,N,small liver,Y,Y,Y
+9/13/24,Dannette,Thread Herring,THH010,EI1,8/12/24,68.9,190,144,165,Y,N,,Y,Y,Y
+9/13/24,EG,Thread Herring,THH011,EI2,8/12/24,75.6,202,153,168,Y,N,,Y,Y,Y
+9/13/24,Dannette,Thread Herring,THH012,EI2,8/12/24,76.4,205,158,170,Y,N,,Y,Y,Y
+9/13/24,Dannette,Thread Herring,THH013,EI2,8/12/24,83.4,200,150,170,Y,11 fish/anchovies found,,Y,Y,Y
+9/16/24,EG,Thread Herring,THH014,EI3,8/12/24,35.4,155,115,127,Y,N,,Y,Y,Y
+9/16/24,EG,Thread Herring,THH015,EI3,8/12/24,69.9,192,151,161,Y,N,large gonads and good liver,Y,Y,Y
+9/16/24,EG,Thread Herring,THH016,EI3,8/12/24,77.3,200,157,170,Y,N,,Y,Y,Y
+9/16/24,EG,Thread Herring,THH017,WI3,8/13/24,70.4,195,148,158,Y,N,,Y,Y,Y
+9/17/24,Dannette,Thread Herring,THH018,WI2,8/13/24,62.1,185,140,150,Y,N,,Y,Y,Y
+11/15/24,EG,Thread Herring,THH029,WI3,8/13/24,63.5,185,145,160,Y,Y,,Y,Y,Re-run
+12/10/24,Sam,Unknown Anchovy,UAN001,EO2,8/12/24,0.2,35,30,32,N,N,,Y,,
+12/10/24,Sam,Unknown Anchovy,UAN002,EO2,8/12/24,0.2,34,NA,NA,N,N,,Y,,
+11/19/24,Lindsey,Spot,SPO007,EI2,5/22/24,62.4,169,137,160,Y,Y,,Y,Y,Y
+11/19/24,Lindsey,Spot,SPO008,EI2,5/22/24,54,166,135,158,Y,Y,No gonads,Y,Y,Y
+11/21/24,Sam,Spot,SPO009,WO2,5/23/24,66.2,172,135,165,Y,N,No gonads,Y,Y,Y
+11/21/24,Sam,Spot,SPO010,WO2,5/23/24,45.7,157,125,150,N,N,,Y,Y,Y
+11/21/24,Sam,Spot,SPO011,WO2,5/23/24,44.8,150,124,148,Y,N,No gonads,Y,Y,Y
+11/21/24,Sam,Spot,SPO012,WO2,5/23/24,43.6,155,120,149,Y,N,,Y,Y,Y
+11/22/24,Dannette,Spot,SPO013,EI1,5/22/24,75.4,177,141,173,Y,N,,Y,Y,Y
+11/22/24,Dannette,Spot,SPO014,EI1,5/22/24,44.8,153,116,143,Y,N,No gonads,Y,Y,Y
+11/22/24,Dannette,Spot,SPO015,EI1,5/22/24,71.5,175,138,168,Y,N,,Y,Y,Y
+11/22/24,Dannette,Spot,SPO016,EI1,5/22/24,40.7,149,115,144,Y,N,No Gonads,Y,Y,Y
+11/22/24,Dannette,Spot,SPO017,EI1,5/22/24,46.8,152,122,146,Y,N,,Y,Y,Y
+11/22/24,Dannette,Spot,SPO018,EI1,5/22/24,89.6,186,146,178,Y,N,,Y,Y,Y
+11/22/24,EG,Spot,SPO019,EI1,5/22/24,60,172,130,161,Y,Y,,Y,Y,Y
+11/22/24,Dannette,Spot,SPO020,EI1,5/22/24,41.8,148,115,142,Y,Y,Fish Larve,Y,Y,Y
+11/22/24,Dannette,Spot,SPO021,EI1,5/22/24,21.7,120,95,117,Y,N,,Y,Y,Y
+11/22/24,EG,Spot,SPO022,EI1,5/22/24,50.6,152,120,147,Y,N,,Y,Y,Y
+12/3/24,Lindsey,Spot,SPO035,EO3,5/22/24,58,168,133,160,Y,N,,Y,Y,Y
+12/3/24,Dannette,Spot,SPO036,EO3,5/22/24,62.2,170,132,165,Y,Y,,Y,Y,Y
+12/6/24,Sam,Spot,SPO040,WI1,5/23/24,24.5,130,105,122,Y,N,,Y,Y,Y
+12/6/24,Sam,Spot,SPO041,WI1,5/23/24,31.8,140,111,133,Y,N,,Y,Y,Y
+12/6/24,Sam,Spot,SPO042,WI1,5/23/24,25.6,122,110,130,N,N,,Y,Y,Y
+12/6/24,Sam,Spot,SPO043,WI1,5/23/24,31.5,133,107,127,Y,N,,Y,Y,Y
+12/6/24,Sam,Spot,SPO044,WI1,5/23/24,30.9,134,109,129,Y,N,,Y,Y,Y
+12/6/24,Sam,Spot,SPO045,WI1,5/23/24,24.8,124,110,120,Y,N,,Y,Y,Y
+10/15/24,Dannette,Striped Anchovy,STA001,WI1,5/23/24,12.2,115,95,104,N,N,,Y,Y,
+10/15/24,Lindsey,Striped Anchovy,STA002,WI1,5/23/24,11.5,118,99,108,Y,Y,,Y,Y,
+10/18/24,Dannette,Striped Anchovy,STA003,EI1,5/22/24,8.7,102,88,97,N,N,,Y,Y,
+10/18/24,Dannette,Striped Anchovy,STA004,EI1,5/22/24,7.4,101,83,90,N,N,,Y,Y,
+12/10/24,Sam,Unknown Anchovy,UAN003,EI2,8/12/24,0.1,30,30,NA,N,N,,Y,,
+12/10/24,Sam,Unknown Anchovy,UAN004,EI2,8/12/24,0.2,33,NA,NA,N,N,,Y,,
+12/10/24,Sam,Unknown Anchovy,UAN005,EI2,8/12/24,0.1,33,NA,NA,N,N,,Y,,
+2/7/25,Cole,Croaker,CRO059,WI1,11/8/24,54.8,180,138,-,Y,mush,,Y,Y,Y
+2/10/25,Cole,Croaker,CRO060,WO2,11/8/24,64,180,138,-,Y,Shrimp & mush,,Y,Y,Y
+2/10/25,Cole,Croaker,CRO061,WO2,11/8/24,65,181,141,-,Y,Shrimp tail & mush,,Y,Y,Y
+2/10/25,Cole,Croaker,CRO062,WO2,11/8/24,63.8,175,134,-,Y,-,,Y,Y,Y
+2/10/25,Cole,Croaker,CRO063,WO2,11/8/24,50.4,172,132,-,Y,-,,Y,Y,Y
+2/10/25,EG,Croaker,CRO064,WO1,11/8/24,81.9,196,155,-,Y,mush,,Y,Y,Y
+2/10/25,Dannette,Croaker,CRO065,WO1,11/8/24,79.5,192,150,-,Y,mush,,Y,Y,Y
+2/10/25,EG,Croaker,CRO066,WO1,11/8/24,63.9,178,135,-,Y,-,,Y,Y,Y
+2/10/25,Dannette,Croaker,CRO067,WO1,11/8/24,66,183,141,-,Y,-,,Y,Y,Y
+2/10/25,EG,Croaker,CRO068,WO1,11/8/24,69.7,183,147,-,Y,Partial larvae,,Y,Y,Y
+2/10/25,Dannette,Croaker,CRO069,WO1,11/8/24,55.8,175,145,-,Y,mush,,Y,Y,Y
+2/10/25,EG,Croaker,CRO070,WO1,11/8/24,65.8,179,145,-,Y,-,,Y,Y,Y
+2/10/25,Dannette,Croaker,CRO071,WO1,11/8/24,65.1,177,133,-,Y,mush,,Y,Y,Y
+2/10/25,EG,Croaker,CRO072,WO1,11/8/24,95,194,155,-,Y,-,,Y,Y,Y
+2/10/25,Dannette,Croaker,CRO073,WO1,11/8/24,71.3,186,141,-,Y,mush,gc had scales in it,Y,Y,Y
+2/10/25,EG,Croaker,CRO074,WO2,11/8/24,77.5,202,160,-,Y,mush,,Y,Y,Y
+2/10/25,Dannette,Croaker,CRO075,WO2,11/8/24,71.4,189,149,-,Y,-,,Y,Y,Y
+2/10/25,EG,Croaker,CRO076,WO2,11/8/24,91.8,205,165,-,Y,-,,Y,Y,Y
+2/12/25,Cole,Croaker,CRO077,WO2,11/8/24,76,198,155,-,Y,mush,,Y,Y,Y
+2/12/25,Cole,Croaker,CRO078,WO2,11/8/24,87.9,202,161,-,Y,shrimp,,Y,Y,Y
+2/12/25,Cole,Croaker,CRO079,WO2,11/8/24,61.3,176,137,-,Y,unknown,,Y,Y,Y
+2/12/25,Cole,Croaker,CRO080,WI1,11/8/24,60.3,180,138,-,Y,crab,,Y,Y,Y
+2/12/25,Cole,Croaker,CRO081,WI1,11/8/24,47.8,167,131,-,Y,mush & shell?,,Y,Y,Y
+2/12/25,Dannette,Croaker,CRO082,WI1,11/8/24,45.5,159,121,-,Y,Claw?,Found in intestine,Y,Y,Y
+2/12/25,Lindsey,Croaker,CRO083,WI1,11/8/24,39.9,158,123,-,Y,mush,,Y,Y,Y
+2/12/25,Dannette,Croaker,CRO084,WI1,11/8/24,39.2,160,126,-,Y,mush,,Y,Y,Y
+2/12/25,Lindsey,Croaker,CRO085,EO2,5/22/24,109.5,218,175,-,Y,-,,Y,Y,Y
+2/12/25,Dannette,Croaker,CRO086,EO2,5/22/24,112.1,218,175,-,Y,shrimp???,,Y,Y,Y
+2/12/25,Lindsey,Croaker,CRO087,EO2,5/22/24,91.2,205,163,-,Y,-,,Y,Y,Y
+2/12/25,Dannette,Croaker,CRO088,EO2,5/22/24,111.2,220,180,-,Y,worm,,Y,Y,Y
+10/18/24,EG,Striped Anchovy,STA005,EI1,5/22/24,10.4,113,92,99,Y,N,,Y,Y,
+10/18/24,Dannette,Striped Anchovy,STA006,EI1,5/22/24,11,114,94,100,N,N,,Y,Y,
+10/18/24,Dannette,Striped Anchovy,STA007,EI1,5/22/24,7.7,103,84,93,Y,N,,Y,Y,
+10/18/24,EG,Striped Anchovy,STA008,EI1,5/22/24,7.7,103,85,94,Y,N,,Y,Y,
+10/18/24,EG,Striped Anchovy,STA009,EI1,5/22/24,7.3,100,83,87,Y,N,,Y,Y,
+10/18/24,EG,Striped Anchovy,STA010,EI1,5/22/24,7.6,105,85,92,N,N,Liver sample collected but doubtful; intestines digested and difficult to ID ,Y,Y,
+10/21/24,EG,Striped Anchovy,STA011,EI1,5/22/24,2.2,73,63,67,N,N,,,,
+10/21/24,EG,Striped Anchovy,STA012,WI1,5/23/24,7.7,104,84,91,N,N,,,,
+2/12/25,Dannette,Striped Anchovy,STA106,EI2,5/22/24,20.9,143,117,127,Y,-,,,,
+2/12/25,Lindsey,Striped Anchovy,STA107,EI2,5/22/24,9.7,106,88,100,N,-,,,,
+2/13/25,Cole,Striped Anchovy,STA108,EI2,5/22/24,6.3,96,80,89,N,mush,,,,
+9/17/24,Dannette,Thread Herring,THH019,EI2,5/22/24,65.8,194,143,157,Y,N,,Y,Y,Y
+9/17/24,Lindsey,Thread Herring,THH020,EI2,5/22/24,63.4,197,155,167,Y,N,small liver,Y,Y,Y
+9/17/24,Dannette,Thread Herring,THH021,EI2,5/22/24,63.7,191,145,156,Y,N,,Y,Y,Y
+9/17/24,Lindsey,Thread Herring,THH022,EI2,5/22/24,56.4,184,143,156,Y,N,,Y,Y,Y
+9/17/24,Dannette,Thread Herring,THH023,EI2,5/22/24,68.6,194,145,162,Y,N,,Y,Y,Y
+9/17/24,Lindsey,Thread Herring,THH024,EI2,5/22/24,69.3,197,154,166,Y,N,,Y,Y,Y
+12/10/24,Sam,Unknown Anchovy,UAN006,EI2,8/12/24,0.2,34,28,NA,N,N,,Y,,
+2/17/25,Dannette,Thread Herring,THH061,WO2,11/8/24,7.5,92,74,81,N,mush,,Y,Y,
+9/17/24,Dannette,Thread Herring,THH025,EI2,5/22/24,67.5,183,141,154,Y,N,,Y,Y,Y
+9/17/24,Lindsey,Thread Herring,THH026,EI2,5/22/24,57.4,186,147,156,Y,N,,Y,Y,Y
+9/17/24,Lindsey,Thread Herring,THH027,EI2,5/22/24,62.1,193,149,167,Y,N,,Y,Y,Y
+9/20/24,Dannette,Thread Herring,THH028,EI2,5/22/24,62.4,195,145,158,Y,N,liver mostly digested,Y,Y,Y
+2/17/25,Cole,Weakfish,WEF001,WO2,5/23/24,154.5,233,190,-,Y,fish mush,,Y,Y,Y
+2/17/25,EG,Thread Herring,THH062,WO1,11/8/24,23.3,136,105,114,Y,-,,Y,,
+12/10/24,Sam,Unknown Anchovy,UAN007,EI2,8/12/24,0.2,34,30,NA,N,N,,Y,,
+2/17/25,EG,Weakfish,WEF011,WO1,11/8/24,95,209,170,-,Y,-,,Y,,
+2/17/25,Cole,Weakfish,WEF002,WO2,5/23/24,97.3,207,168,-,Y,fish mush,,Y,Y,Y
+2/17/25,Dannette,Weakfish,WEF003,WO2,5/23/24,125.8,233,195,-,Y,-,,Y,Y,Y
+2/17/25,EG,Weakfish,WEF004,WO2,5/23/24,77.2,204,170,-,Y,-,,Y,Y,Y
+2/17/25,Dannette,Weakfish,WEF005,WO2,5/23/24,114.3,232,189,-,Y,mush,,Y,Y,Y
+2/19/25,Dannette,Lizardfish,LIZ010,WO3,11/8/24,67.1,224,189,205,Y,mush,,Y,,
+2/19/25,Dannette,Lizardfish,LIZ011,WO3,11/8/24,39.2,191,162,180,Y,-,,Y,,
+2/19/25,Dannette,Lizardfish,LIZ013,WO3,11/8/24,70.3,224,190,210,Y,shrimp,,Y,,
+2/19/25,Dannette,Lizardfish,LIZ014,WO3,11/8/24,86.3,240,210,230,Y,-,,Y,,
+2/19/25,Dannette,Lizardfish,LIZ016,WO3,11/8/24,55.3,210,180,193,Y,-,,Y,,
+2/19/25,EG,Lizardfish,LIZ003,WI3,11/8/24,36.2,191,162,167,Y,mush,,Y,Y,Y
+2/19/25,EG,Lizardfish,LIZ004,EI3,11/1/24,171.8,310,260,284,Y,mush,,Y,Y,Y
+2/17/25,EG,Weakfish,WEF006,WO2,5/23/24,238.9,284,230,-,Y,-,,Y,Y,Y
+12/10/24,Sam,Unknown Anchovy,UAN008,EI2,8/12/24,0.2,32,29,NA,N,N,,Y,,
+2/19/25,Lindsey,Lizardfish,LIZ008,WO3,11/8/24,68.5,223,193,207,Y,-,,Y,Y,Y
+2/19/25,Lindsey,Lizardfish,LIZ009,WO3,11/8/24,69.9,230,198,221,Y,mush,,Y,Y,Y
+2/19/25,Lindsey,Lizardfish,LIZ012,WO3,11/8/24,97.8,250,218,233,Y,larvae?,,Y,,
+2/19/25,Lindsey,Lizardfish,LIZ015,WO3,11/8/24,59.3,202,178,190,Y,anchovy,,Y,,
+2/19/25,Lindsey,Lizardfish,LIZ017,WO3,11/8/24,72.3,233,198,215,Y,Anchovy,,Y,,
+12/10/24,Sam,Unknown Anchovy,UAN009,EI2,8/12/24,0.3,39,32,NA,N,N,,Y,,
+12/10/24,Sam,Unknown Anchovy,UAN010,EI2,8/12/24,0.2,36,30,NA,N,N,,Y,,
+2/17/25,Dannette,Weakfish,WEF007,WO2,5/23/24,160.4,250,205,-,Y,-,,Y,Y,Y
+2/17/25,EG,Weakfish,WEF008,WO2,5/23/24,144.9,237,195,-,Y,-,,Y,Y,Y
+2/17/25,Dannette,Weakfish,WEF009,WO2,5/23/24,128.8,239,193,-,Y,fish spine?,,Y,Y,Y
+2/17/25,EG,Weakfish,WEF010,WO2,5/23/24,107,217,180,-,Y,-,,Y,,
+12/10/24,Sam,Unknown Anchovy,UAN011,EI2,8/12/24,0.2,38,32,NA,N,N,,Y,,
+2/17/25,Dannette,Weakfish,WEF012,WI2,8/13/24,356.4,325,277,-,Y,-,,Y,,
+2/17/25,EG,Weakfish,WEF013,WI2,8/13/24,154.4,240,205,-,Y,-,,Y,,
+2/27/25,Sam,Pigfish,PIG008,WO3,11/8/24,58.4,154,126,151,Y,Atlantic brief squid,,Y,Y,Y
+3/4/25,Tiana,Croaker,CRO089,WO3,2/26/24,33.1,153,126,-,Y,- ,,Y,Y,Y
+3/6/25,Sam,Croaker,CRO090,EI2,2/16/24,46.3,170,138,-,Y,mush,,Y,Y,Y
+3/4/25,Sam,Moonfish,MOF046,WO3,2/26/24,10,95,78,65,Y,- ,,Y,,
+3/6/25,Cole,Moonfish,MOF047,EI1,2/16/24,13.5,102,79,89,Y,-,,Y,,
+3/6/25,Cole,Moonfish,MOF048,EI1,2/16/24,11.1,100,76,86,N,shrimp larva,,Y,,
+3/6/25,Cole,Moonfish,MOF049,EI1,2/16/24,17.6,129,95,108,Y,-,,Y,,
+3/6/25,Cole,Moonfish,MOF050,EI1,2/16/24,28.8,135,102,117,Y,-,,Y,,
+3/10/25,Cole,Pinfish,PIN122,WO2,2/26/24,58.7,162,124,149,Y,-,,Y,,
+3/10/25,Cole,Pinfish,PIN123,WO2,2/26/24,51.4,152,120,142,Y,unknown crustacean?,,Y,,
+3/10/25,Cole,Pinfish,PIN124,WO2,2/26/24,52.4,152,116,141,Y,"mush, clam",,Y,,
+3/10/25,Cole,Pinfish,PIN125,WO2,2/26/24,33.1,133,102,123,N,-,,Y,,
+3/10/25,Cole,Pinfish,PIN126,WO2,2/26/24,45.2,149,116,139,Y,unknown,,Y,,
+3/26/25,Cole,Pinfish,PIN127,WI1,2/26/24,13.5,99,76,91,Y,mush,,Y,,
+3/26/25,Cole,Pinfish,PIN128,WI1,2/26/24,15.4,103,80,91,Y,shrimp larave,,Y,,
+3/26/25,Cole,Pinfish,PIN129,WI1,2/26/24,11.7,94,76,91,Y,larva?,,Y,,
+3/26/25,Cole,Pinfish,PIN130,WI1,2/26/24,12.2,94,75,89,Y,-,,Y,,
+3/26/25,Dannette,Pinfish,PIN131,WI1,2/26/24,7.8,84,65,77,Y,mush,,Y,,
+3/26/25,Dannette,Pinfish,PIN132,WI1,2/26/24,7.5,80,68,-,Y,-,broken tail,Y,,
+3/26/25,Lindsey,Pinfish,PIN133,WI1,2/26/24,7.5,81,63,-,Y,mush,broken tail,Y,,
+3/26/25,Dannette,Pinfish,PIN134,WI1,2/26/24,11.2,94,75,90,Y,-,,Y,,
+3/26/25,Lindsey,Pinfish,PIN135,WI1,2/26/24,8.4,84,67,79,Y,mush,,Y,,
+3/27/25,Cole,Pinfish,PIN136,WO1,2/26/24,19.7,109,86,106,Y,-,,Y,,
+3/27/25,Cole,Pinfish,PIN137,WO1,2/26/24,16.6,102,83,99,Y,-,,Y,,
+3/27/25,Cole,Pinfish,PIN138,WO1,2/26/24,20.2,110,85,105,Y,-,,Y,,
+3/27/25,Cole,Pinfish,PIN139,WO1,2/26/24,12.5,94,76,92,Y,-,,Y,,
+3/27/25,Cole,Pinfish,PIN140,WO1,2/26/24,10.3,95,72,90,-,-,,Y,,
+3/27/25,Cole,Pinfish,PIN141,WO1,2/26/24,11.9,96,74,91,-,-,,Y,,
+3/27/25,Cole,Pinfish,PIN142,WO1,2/26/24,13.2,98,77,93,-,-,,Y,,
+3/27/25,Cole,Pinfish,PIN143,WO1,2/26/24,17.7,111,85,104,Y,-,,Y,,
+3/27/25,Cole,Pinfish,PIN144,WO1,2/26/24,21.9,117,94,112,Y,-,,Y,,
+3/27/25,Cole,Pinfish,PIN145,WO1,2/26/24,19.8,111,87,106,Y,-,,Y,,
+3/28/25,Cole,Pinfish,PIN146,EI2,2/16/24,11.5,95,74,91,Y,mush,,Y,,
+3/28/25,Cole,Pinfish,PIN147,EI2,2/16/24,13,96,76,93,Y,-,,Y,,
+3/28/25,Cole,Pinfish,PIN148,EI2,2/16/24,14.3,100,80,97,Y,-,,Y,,
+3/28/25,Cole,Pinfish,PIN149,EI2,2/16/24,18.3,111,89,106,Y,-,,Y,,
+3/28/25,Cole,Pinfish,PIN150,EI2,2/16/24,24.3,118,91,112,Y,larval mush,,Y,,
+3/4/25,Tiana,Spot,SPO068,WO3,2/26/24,38.2,147,119,142,N,mush,,Y,,
+3/4/25,Sam,Spot,SPO069,WO3,2/26/24,49.5,166,132,158,Y,- ,,Y,,
+3/4/25,Sam,Spot,SPO070,WO3,2/26/24,30.7,139,109,132,Y,- ,,Y,,
+3/4/25,Sam,Spot,SPO071,WO3,2/26/24,49.4,162,132,157,N,- ,,Y,,
+3/4/25,Sam,Spot,SPO072,WO3,2/26/24,55.2,167,134,163,N,- ,,Y,,
+3/4/25,Sam,Spot,SPO073,WO3,2/26/24,64.5,172,141,166,N,- ,,Y,,
+3/5/25,Sam,Spot,SPO074,WO3,2/26/24,45.5,160,129,153,N,-,,Y,,
+3/5/25,Sam,Spot,SPO075,WO3,2/26/24,54.2,160,132,156,Y,-,,Y,,
+3/5/25,Sam,Spot,SPO076,WO3,2/26/24,53.2,159,130,153,Y,-,,Y,,
+3/26/25,Dannette,Pigfish,PIG010,WO1,11/8/24,37.1,140,115,135,Y,mush,,,,
+3/26/25,Dannette,Pigfish,PIG011,WO1,11/8/24,91.9,180,146,174,Y,mush & shrimp,,,,
+3/26/25,Dannette,Pigfish,PIG013,WI1,11/8/24,39.3,138,108,133,Y,-,,,,
+3/26/25,Dannette,Pigfish,PIG014,WI1,11/8/24,45.5,149,119,140,Y,-,,,,
+3/5/25,Sam,Spot,SPO077,WO3,2/26/24,41.9,150,121,144,N,-,,Y,,
+3/6/25,Sam,Spot,SPO078,EI2,2/16/24,36.4,147,112,138,Y,-,,Y,,
+3/26/25,Lindsey,Pigfish,PIG009,WO1,11/8/24,49.4,157,124,144,Y,mush,fish disintegrating,,,
+3/26/25,Lindsey,Pigfish,PIG012,WO1,11/8/24,65.4,170,131,158,Y,-,,,,
+3/6/25,Sam,Spot,SPO079,EI2,2/16/24,19.6,122,96,119,Y,-,,Y,,
+3/6/25,Sam,Spot,SPO080,EI2,2/16/24,32.1,141,114,136,Y,-,,Y,,
+3/6/25,Cole,Spot,SPO081,EI2,2/16/24,43.3,163,120,150,N,-,,Y,,
+3/6/25,Cole,Spot,SPO082,EI2,2/16/24,48.6,159,121,151,Y,-,,Y,,
+3/31/25,Cole,Striped Anchovy,STA109,WO3,2/26/24,11.3,111,94,105,-,mush,,,,
+3/31/25,Cole,Striped Anchovy,STA110,WO3,2/26/24,11.7,117,98,107,Y,mush,very little liver,,,
+3/31/25,Cole,Striped Anchovy,STA111,EI2,2/16/24,0.8,52,45,48,-,mush,full fish,,,
+3/31/25,Dannette,Striped Anchovy,STA112,EI2,2/16/24,6.3,97,80,90,-,-,,,,
+3/31/25,Cole,Striped Anchovy,STA113,EI2,2/16/24,0.7,52,48,46,-,mush,full fish,,,
+3/31/25,Cole,Striped Anchovy,STA114,EI2,2/16/24,0.7,53,44,48,-,mush,full fish,,,
+3/31/25,Dannette,Striped Anchovy,STA115,EI2,2/16/24,8.2,107,87,94,-,mush,full fish,,,
+3/31/25,Dannette,Striped Anchovy,STA116,EI2,2/16/24,7.9,115,95,103,-,-,,,,
+3/31/25,Dannette,Striped Anchovy,STA117,EI2,2/16/24,5.4,96,79,85,-,-,,,,
+3/31/25,Cole,Striped Anchovy,STA118,EI2,2/16/24,1,56,46,51,-,mush,full fish,,,
+3/31/25,Dannette,Striped Anchovy,STA119,EI2,2/16/24,6.2,98,83,91,-,-,,,,
+3/31/25,Cole,Striped Anchovy,STA120,EI2,2/16/24,1,57,47,52,-,mush,full fish,,,
+3/31/25,Dannette,Striped Anchovy,STA121,EI2,2/16/24,6.2,96,79,89,-,-,,,,
+3/31/25,Cole,Striped Anchovy,STA122,EI2,2/16/24,5,95,77,85,-,mush,,,,
+3/31/25,Dannette,Striped Anchovy,STA123,EI2,2/16/24,5,89,74,83,-,mush,,,,
+4/2/25,Dannette,Striped Anchovy,STA124,EI1,2/16/24,9.8,110,95,104,-,mush,,,,
+4/2/25,Lindsey,Striped Anchovy,STA125,EI1,2/16/24,6.1,97,80,87,Y,mush,,,,
+4/2/25,Dannette,Striped Anchovy,STA126,EI1,2/16/24,7.7,107,87,96,-,-,,,,
+4/2/25,Lindsey,Striped Anchovy,STA127,EI1,2/16/24,6.3,100,83,-,-,mush,,,,
+4/2/25,Dannette,Striped Anchovy,STA128,EI1,2/16/24,7.2,105,86,95,-,-,,,,
+4/2/25,Dannette,Striped Anchovy,STA129,EI1,2/16/24,6.9,99,81,92,Y,-,,,,
+4/2/25,Lindsey,Striped Anchovy,STA130,EI1,2/16/24,6,94,78,86,Y,mush,,,,
+4/2/25,Dannette,Striped Anchovy,STA131,EI1,2/16/24,5.7,97,81,91,-,mush,,,,
+4/2/25,Lindsey,Striped Anchovy,STA132,EI1,2/16/24,5.2,92,74,82,-,mush,,,,
+4/2/25,Dannette,Striped Anchovy,STA133,EI1,2/16/24,6.8,98,82,91,-,mush,,,,
+4/3/25,Cole,Striped Anchovy,STA134,WO2,2/26/24,6.5,98,83,92,-,mush,,,,
+4/3/25,Cole,Striped Anchovy,STA135,WO2,2/26/24,9.8,107,90,100,Y,mush,,,,
+4/3/25,Cole,Striped Anchovy,STA136,WO2,2/26/24,11.9,115,96,108,Y,mush,,,,
+4/3/25,Cole,Striped Anchovy,STA137,WO2,2/26/24,8.7,104,87,97,Y,mush,,,,
+4/3/25,Cole,Striped Anchovy,STA138,WO2,2/26/24,15.4,121,104,115,Y,mush,,,,
+4/3/25,Cole,Striped Anchovy,STA139,WO2,2/26/24,9.6,112,93,103,-,mush,,,,
+4/7/25,Cole,Striped Anchovy,STA140,WO2,2/26/24,7.6,103,87,98,-,mush,,,,
+4/7/25,Cole,Striped Anchovy,STA141,WO2,2/26/24,8.7,104,88,99,Y,mush,,,,
+4/7/25,Cole,Striped Anchovy,STA142,WO2,2/26/24,11.9,115,97,107,Y,mush,,,,
+4/7/25,Cole,Striped Anchovy,STA143,WO2,2/26/24,7.3,102,86,96,-,mush,,,,
+4/7/25,Dannette,Striped Anchovy,STA144,WO1,2/26/24,10.8,115,94,103,-,mush,,,,
+4/7/25,Dannette,Striped Anchovy,STA145,WO1,2/26/24,9.8,115,94,104,-,mush,,,,
+4/7/25,Cole,Striped Anchovy,STA146,WO1,2/26/24,7.1,100,86,96,-,mush,,,,
+4/7/25,Dannette,Striped Anchovy,STA147,WO1,2/26/24,11,114,94,104,-,mush,,,,
+4/7/25,Dannette,Striped Anchovy,STA148,WO1,2/26/24,10.8,114,93,104,-,mush,,,,
+4/7/25,Dannette,Striped Anchovy,STA149,WO1,2/26/24,8.4,115,88,96,-,-,,,,
+4/9/25,Cole,Striped Anchovy,STA150,WO1,2/26/24,8.2,106,90,99,Y,mush,,,,
+4/9/25,Dannette,Striped Anchovy,STA151,WO1,2/26/24,10.2,115,95,105,-,mush,,,,
+4/9/25,Lindsey,Striped Anchovy,STA152,WO1,2/26/24,9.2,110,87,99,-,mush,,,,
+4/9/25,Dannette,Striped Anchovy,STA153,WO1,2/26/24,6.5,99,82,93,-,mush,,,,
+4/9/25,Lindsey,Striped Anchovy,STA154,WI1,2/26/24,4.9,89,75,83,-,-,,,,
+4/9/25,Dannette,Striped Anchovy,STA155,WI1,2/26/24,5.8,100,83,90,-,-,split in two,,,
+4/9/25,Lindsey,Striped Anchovy,STA156,WI1,2/26/24,5.8,90,79,-,-,-,,,,
+3/10/25,Cole,Thread Herring,THH063,WO1,2/26/24,20.5,134,103,115,N,mush,,Y,,
+3/24/25,Dannette,Weakfish,WEF014,WO3,2/26/24,135.8,238,203,-,Y,-,,Y,,
+3/24/25,Dannette,Weakfish,WEF015,WO3,2/26/24,96.9,215,178,-,Y,-,,Y,,
+3/24/25,Dannette,Weakfish,WEF016,WO3,2/26/24,111.8,228,187,-,Y,-,,Y,,
+3/24/25,Dannette,Weakfish,WEF017,WO3,2/26/24,105.3,230,190,-,Y,-,,Y,,
+3/24/25,Dannette,Weakfish,WEF018,WO3,2/26/24,28,153,124,-,Y,-,Small Liver,Y,,
+3/24/25,Dannette,Weakfish,WEF019,WO3,2/26/24,51.1,181,151,-,Y,-,,Y,,
+3/24/25,Dannette,Weakfish,WEF020,WO3,2/26/24,67.4,197,163,-,Y,-,,Y,,
+4/9/25,Dannette,Croaker,CRO091,EO3,10/25/23,162.4,236,195,-,Y,unk fish,,Y,Y,Y
+4/9/25,Lindsey,Croaker,CRO092,EO3,10/25/23,107.8,225,182,-,Y,-,,Y,Y,Y
+3/24/25,Dannette,Weakfish,WEF021,WO3,2/26/24,34.9,160,129,-,Y,-,,Y,,
+3/24/25,Dannette,Weakfish,WEF022,WO3,2/26/24,33.9,157,128,-,Y,-,,Y,,
+3/24/25,Dannette,Weakfish,WEF023,WO3,2/26/24,93.5,220,178,-,Y,-,,Y,,
+4/9/25,Dannette,Croaker,CRO093,EO3,10/25/23,102.6,210,163,-,Y,mush,,Y,Y,Y
+4/9/25,Lindsey,Atlantic Bumper,ATB026,EO3,10/25/23,62,198,150,165,Y,mush,,Y,,
+4/14/25,Cole,Thread Herring,THH064,EO3,10/25/23,5.5,89,68,79,-,mush,torn in half,,,
+4/14/25,Cole,Thread Herring,THH065,EO3,10/25/23,5.8,86,67,77,-,mush,,,,
+4/14/25,Cole,Thread Herring,THH066,EO3,10/25/23,6.1,88,70,80,-,mush,,,,
+4/14/25,Dannette,Thread Herring,THH067,EO3,10/25/23,8,101,78,84,-,mush,,,,
+4/14/25,Cole,Weakfish,WEF024,EO3,10/25/23,296.4,303,242,-,Y,striped anchovies,,,,
+4/14/25,Dannette,Thread Herring,THH068,EO3,10/25/23,6.3,94,74,81,-,mush,,,,
+4/14/25,Dannette,Thread Herring,THH069,EO3,10/25/23,6.1,99,75,83,-,mush,,,,
+4/14/25,Cole,Thread Herring,THH070,EO3,10/25/23,8.7,97,77,88,-,mush,,,,
+4/14/25,Dannette,Thread Herring,THH071,EO3,10/25/23,6.6,93,78,81,-,mush,,,,
+4/14/25,Dannette,Thread Herring,THH072,EO3,10/25/23,6,92,74,79,-,-,,,,
+4/14/25,Dannette,Thread Herring,THH073,EO3,10/25/23,4.9,85,73,73,-,mush,,,,
+4/16/25,Cole,Moonfish,MOF051,EO3,10/25/23,107.3,200,166,183,Y,-,,Y,,
+4/16/25,Cole,Moonfish,MOF052,EO3,10/25/23,92.3,185,149,167,Y,-,,Y,,
+4/16/25,Cole,Moonfish,MOF053,EO3,10/25/23,95.4,185,150,167,Y,-,,Y,,
+4/16/25,Cole,Moonfish,MOF054,EO3,10/25/23,105.2,196,159,176,Y,fish mush,,Y,,
+4/16/25,Lindsey,Moonfish,MOF055,EO3,10/25/23,83.5,190,146,168,Y,mush,,Y,,
+4/16/25,Lindsey,Moonfish,MOF056,EO3,10/25/23,87.5,197,160,172,Y,-,,Y,,
+4/16/25,Lindsey,Moonfish,MOF057,EO3,10/25/23,92.1,200,160,175,Y,fish mush,,Y,,
+4/16/25,Lindsey,Moonfish,MOF058,EO3,10/25/23,40,150,121,134,Y,-,,Y,,
+4/16/25,Lindsey,Moonfish,MOF059,EO3,10/25/23,77.1,189,156,167,Y,fish mush,,Y,,
+4/16/25,Lindsey,Moonfish,MOF060,EO3,10/25/23,84.2,193,157,169,Y,mush,,Y,,
+4/17/25,Sam,Striped Anchovy,STA157,EO3,10/25/23,9.3,109,93,100,-,zooplankton,,,,
+4/17/25,Sam,Striped Anchovy,STA158,EO3,10/25/23,6.2,99,82,89,-,-,,,,
+4/17/25,Sam,Striped Anchovy,STA159,EO3,10/25/23,6.5,98,83,94,-,-,,,,
+4/17/25,Sam,Striped Anchovy,STA160,EO3,10/25/23,6,96,78,85,-,zooplankton,,,,
+4/23/25,Lindsey,Striped Anchovy,STA161,EO3,10/25/23,5.7,91,80,87,-,mush,,,,
+4/23/25,Dannette,Striped Anchovy,STA162,EO3,10/25/23,4.3,90,75,85,-,mush,,,,
+4/23/25,Dannette,Striped Anchovy,STA163,EO3,10/25/23,3.9,85,70,77,-,mush,,,,
+4/23/25,Lindsey,Striped Anchovy,STA164,EO3,10/25/23,3.8,90,83,-,-,mush,forgot weight & pic before removing muscle,,,
+4/23/25,Dannette,Striped Anchovy,STA165,EO3,10/25/23,4,90,73,80,-,mush,Split in two,,,
+4/23/25,Lindsey,Pinfish,PIN151,EO3,10/25/23,74.1,179,137,160,Y,mush,,Y,,
+4/23/25,Lindsey,Pinfish,PIN152,EO3,10/25/23,89.8,199,150,173,Y,mush,,Y,,
+4/23/25,Lindsey,Pinfish,PIN153,EO3,10/25/23,78.4,182,141,163,Y,-,,Y,,
+4/28/25,Cole,Pinfish,PIN154,EO3,10/25/23,90,176,141,170,Y,mush,,Y,,
+4/28/25,Cole,Pinfish,PIN155,EO3,10/25/23,95.4,188,145,178,Y,fish mush,,Y,,
+4/28/25,Cole,Pinfish,PIN156,EO3,10/25/23,84.4,184,142,171,Y,-,,Y,,
+4/28/25,Dannette,Pinfish,PIN157,EO3,10/25/23,73.9,170,130,155,Y,fish mush,,Y,,
+4/28/25,Dannette,Pinfish,PIN158,EO3,10/25/23,65.1,165,129,153,Y,fish mush,,Y,,
+4/28/25,Dannette,Pinfish,PIN159,EO3,10/25/23,103.1,188,150,175,Y,fish mush,,Y,,
+4/28/25,Dannette,Pinfish,PIN160,EO3,10/25/23,85.3,170,135,160,Y,mush w/ grass?,,Y,,
+4/28/25,Dannette,Pinfish,PIN161,EO3,10/25/23,97.3,192,157,180,Y,mush,,Y,,
+5/2/25,Cole,Spot,SPO083,EO3,10/25/23,143.6,214,172,210,Y,biomatter,,,,
+5/2/25,Sam,Spot,SPO084,EO3,10/25/23,104.9,195,157,187,Y,-,,,,
+5/2/25,Sam,Spot,SPO085,EO3,10/25/23,131.1,219,177,211,Y,-,,,,
+5/2/25,Cole,Spot,SPO086,EO3,10/25/23,126.8,198,161,195,Y,detritus,,,,
+5/2/25,Sam,Spot,SPO087,EO3,10/25/23,192.9,225,180,220,Y,biomatter,,,,
+5/2/25,Cole,Spot,SPO088,EO3,10/25/23,127.7,205,166,201,Y,clam,,,,
+5/2/25,Cole,Spot,SPO089,EO3,10/25/23,119.8,197,161,193,Y,shrimp/biomatter,,,,
+5/2/25,Sam,Spot,SPO090,EO3,10/25/23,98.4,192,155,184,Y,-,,,,
+5/2/25,Sam,Spot,SPO091,EO3,10/25/23,86.9,185,150,180,Y,-,,,,
+5/12/25,Dannette,Atlantic Bumper,ATB027,EI3,10/25/23,20.7,137,109,120,Y,larvae,,Y,,
+5/12/25,Dannette,Atlantic Bumper,ATB028,EI3,10/25/23,23.2,139,109,120,Y,larvae,,Y,,
+5/12/25,Cole,Atlantic Bumper,ATB029,EI3,10/25/23,12.6,111,84,96,-,shrimp larvae,,Y,,
+5/12/25,Dannette,Atlantic Bumper,ATB030,EI3,10/25/23,10.7,111,81,90,Y,mush,,Y,,
+5/12/25,Dannette,Atlantic Bumper,ATB031,EI3,10/25/23,10.2,107,80,91,-,larvae,,Y,,
+5/12/25,Dannette,Thread Herring,THH074,EI3,10/25/23,14,118,90,110,Y,mush,,,,
+5/12/25,Dannette,Thread Herring,THH075,EI3,10/25/23,13.8,115,90,110,-,mush,,,,
+5/12/25,Cole,Thread Herring,THH076,EI3,10/25/23,15.1,120,93,105,-,mush,,,,
+5/12/25,Dannette,Thread Herring,THH077,EI3,10/25/23,11.9,115,88,96,Y,mush,,,,
+5/12/25,Cole,Thread Herring,THH078,EI3,10/25/23,11.5,116,88,99,-,mush,,,,
+5/12/25,Dannette,Thread Herring,THH079,EI3,10/25/23,14.5,120,93,110,-,mush,,,,
+5/12/25,Cole,Thread Herring,THH080,EI3,10/25/23,20,123,98,109,-,mush,,,,
+5/12/25,Dannette,Thread Herring,THH081,EI3,10/25/23,9.5,108,84,92,-,mush,,,,
+5/12/25,Dannette,Thread Herring,THH082,EI3,10/25/23,9.1,105,80,90,-,mush,,,,
+5/12/25,Cole,Thread Herring,THH083,EI3,10/25/23,9.1,105,80,91,Y,mush,,,,
+5/12/25,Dannette,Moonfish,MOF061,EI3,10/25/23,25.5,125,100,110,Y,larvae,,Y,,
+5/12/25,Cole,Moonfish,MOF062,EI3,10/25/23,36.6,134,110,124,Y,-,,Y,,
+5/12/25,Dannette,Moonfish,MOF063,EI3,10/25/23,28.9,132,105,112,Y,mush,,Y,,
+5/12/25,Cole,Moonfish,MOF064,EI3,10/25/23,23.9,120,94,107,Y,shrimp larvae,,Y,,
+5/13/25,Dannette,Striped Anchovy,STA166,EI3,10/25/23,4.2,84,69,78,-,-,,,,
+5/13/25,Dannette,Striped Anchovy,STA167,EI3,10/25/23,7.5,107,88,98,-,-,,,,
+5/13/25,Dannette,Striped Anchovy,STA168,EI3,10/25/23,4.9,90,71,81,-,-,,,,
+5/13/25,Dannette,Striped Anchovy,STA169,EI3,10/25/23,5,88,72,81,-,-,,,,
+5/13/25,Dannette,Striped Anchovy,STA170,EI3,10/25/23,5.5,90,74,81,-,-,,,,
+5/13/25,Dannette,Striped Anchovy,STA171,EI3,10/25/23,2.9,76,64,70,-,-,,,,
+5/13/25,Dannette,Striped Anchovy,STA172,EI3,10/25/23,4,87,70,78,-,-,,,,
+5/13/25,Cole,Striped Anchovy,STA173,EI3,10/25/23,4.3,87,71,79,-,-,,,,
+5/13/25,Dannette,Striped Anchovy,STA174,EI3,10/25/23,3.2,83,66,74,-,mush,,,,
+5/13/25,Cole,Striped Anchovy,STA175,EI3,10/25/23,3.1,-,67,73,-,mush,,,,
+5/13/25,Cole,Pinfish,PIN162,EI3,10/25/23,69.4,162,126,151,Y,"biomatter, fish, crustacean",,Y,,
+5/13/25,Dannette,Atlantic Bumper,ATB032,EI2,10/25/23,24.6,140,101,115,Y,mush,,Y,,
+5/13/25,Cole,Atlantic Bumper,ATB033,EI2,10/25/23,28.8,143,113,129,Y,larvae?,,Y,,
+5/13/25,Dannette,Atlantic Bumper,ATB034,EI2,10/25/23,18.1,126,100,110,Y,mush,,Y,,
+5/13/25,Cole,Atlantic Bumper,ATB035,EI2,10/25/23,21.8,135,104,117,Y,mush,,Y,,
+5/13/25,Dannette,Atlantic Bumper,ATB036,EI2,10/25/23,17.9,125,98,110,Y,mush,,Y,,
+5/14/25,Cole,Atlantic Bumper,ATB037,EI2,10/25/23,21,127,101,114,Y,mush,,Y,,
+5/14/25,Cole,Atlantic Bumper,ATB038,EI2,10/25/23,9.8,98,79,89,-,-,,Y,,
+5/14/25,Cole,Atlantic Bumper,ATB039,EI2,10/25/23,10.4,99,80,91,Y,mush,,Y,,
+5/14/25,Cole,Atlantic Bumper,ATB040,EI2,10/25/23,9.8,103,82,94,Y,mush,,Y,,
+5/14/25,Cole,Atlantic Bumper,ATB041,EI2,10/25/23,10,102,81,92,Y,mush,,Y,,
+5/14/25,Cole,Striped Anchovy,STA176,EI2,10/25/23,5.4,96,78,87,-,-,,,,
+5/14/25,Cole,Striped Anchovy,STA177,EI2,10/25/23,3.4,88,73,83,-,-,,,,
+5/14/25,Cole,Striped Anchovy,STA178,EI2,10/25/23,4.1,89,74,79,-,-,,,,
+5/14/25,Cole,Striped Anchovy,STA179,EI2,10/25/23,2.9,83,68,75,-,-,,,,
+5/14/25,Cole,Striped Anchovy,STA180,EI2,10/25/23,2.7,77,63,71,-,-,,,,
+5/15/25,Dannette,Thread Herring,THH084,EI2,10/25/23,5.8,89,70,76,-,mush,,,,
+5/15/25,Dannette,Thread Herring,THH085,EI2,10/25/23,19,123,100,110,-,mush,,,,
+5/15/25,Dannette,Striped Anchovy,STA181,EI2,10/25/23,2.7,80,67,73,-,-,,,,
+5/15/25,Dannette,Striped Anchovy,STA182,EI2,10/25/23,3,77,65,72,-,-,,,,
+5/15/25,Dannette,Striped Anchovy,STA183,EI2,10/25/23,2.8,75,67,-,-,-,broken tail,,,
+5/15/25,Dannette,Striped Anchovy,STA184,EI2,10/25/23,2.6,71,64,-,-,-,broken tail,,,
+5/15/25,Dannette,Striped Anchovy,STA185,EI2,10/25/23,2.5,78,64,70,-,-,,,,
+5/27/25,Cheyenne,Atlantic Bumper,ATB042,EO2,10/25/23,80.1,184,158,180,Y,mush,,Y,,
+5/27/25,Sam,Atlantic Bumper,ATB043,EO2,10/25/23,54.9,173,140,150,Y,mush,,Y,,
+5/27/25,Cheyenne,Atlantic Bumper,ATB044,EO2,10/25/23,33.5,160,120,139,Y,mush,,Y,,
+5/27/25,Sam,Atlantic Bumper,ATB045,EO2,10/25/23,52.3,168,139,150,Y,mush,,Y,,
+5/27/25,Cheyenne,Atlantic Bumper,ATB046,EO2,10/25/23,67.5,195,145,158,Y,mush,,Y,,
+5/27/25,Sam,Atlantic Bumper,ATB047,EO2,10/25/23,54.3,175,145,165,Y,mush,biomatter?,Y,,
+5/27/25,Cheyenne,Atlantic Bumper,ATB048,EO2,10/25/23,52.4,177,135,154,Y,-,small liver,Y,,
+5/28/25,Dannette,Atlantic Bumper,ATB049,EO2,10/25/23,36.1,156,120,135,Y,larvae? or shrimp?,,Y,,
+5/28/25,Dannette,Atlantic Bumper,ATB050,EO2,10/25/23,26.8,135,111,125,Y,mush,,,,
+5/28/25,Dannette,Atlantic Bumper,ATB051,EO2,10/25/23,23.2,140,112,125,Y,mush,,,,
+5/21/25,Dannette,Croaker,CRO094,EO2,10/25/23,125.9,223,180,-,Y,-,,Y,Y,Y
+5/21/25,Cole,Croaker,CRO095,EO2,10/25/23,135.1,234,185,-,Y,shrimp?,,Y,Y,Y
+5/21/25,Dannette,Croaker,CRO096,EO2,10/25/23,140,225,181,-,Y,biomatter,,Y,Y,Y
+5/21/25,Cole,Croaker,CRO097,EO2,10/25/23,101.2,215,171,-,-,-,,Y,Y,Y
+5/21/25,Dannette,Croaker,CRO098,EO2,10/25/23,109.5,225,175,-,Y,worm,weight after dissection,Y,Y,Y
+5/21/25,Cole,Croaker,CRO099,EO2,10/25/23,143.8,233,183,-,Y,-,,Y,Y,Y
+5/21/25,Dannette,Croaker,CRO100,EO2,10/25/23,112.4,216,170,-,Y,-,,Y,Y,Y
+5/21/25,Cole,Croaker,CRO101,EO2,10/25/23,113.3,223,174,-,Y,-,,Y,Y,Y
+5/21/25,Dannette,Croaker,CRO102,EO2,10/25/23,103.2,215,169,-,Y,-,,Y,Y,Y
+5/21/25,Cole,Croaker,CRO103,EO2,10/25/23,99.6,217,173,-,Y,-,,Y,Y,Y
+5/23/25,Cole,Moonfish,MOF065,EO2,10/25/23,113.5,204,160,176,Y,-,,Y,,
+5/23/25,Cole,Moonfish,MOF066,EO2,10/25/23,43.9,147,115,127,Y,-,,Y,,
+5/23/25,Cole,Moonfish,MOF067,EO2,10/25/23,25.7,128,98,112,Y,mush,,Y,,
+5/23/25,Cole,Moonfish,MOF068,EO2,10/25/23,44.2,151,117,130,Y,larvae?,,Y,,
+5/23/25,Cole,Moonfish,MOF069,EO2,10/25/23,45.1,154,119,133,Y,-,,Y,,
+5/23/25,Cole,Moonfish,MOF070,EO2,10/25/23,43.2,148,119,134,Y,-,,Y,,
+5/23/25,Cole,Moonfish,MOF071,EO2,10/25/23,45,153,119,134,Y,larvae?,,Y,,
+5/23/25,Cole,Moonfish,MOF072,EO2,10/25/23,43.4,144,116,128,Y,mush,,Y,,
+5/23/25,Cole,Moonfish,MOF073,EO2,10/25/23,41.5,148,114,127,Y,mush/larvae?,,Y,,
+5/23/25,Cole,Moonfish,MOF074,EO2,10/25/23,83,181,146,161,Y,larvae?,,Y,,
+5/22/25,Sam,Pinfish,PIN163,EO2,10/25/23,94.9,189,156,175,Y,mush/veg?,,Y,,
+5/22/25,Cheyenne,Pinfish,PIN164,EO2,10/25/23,77.8,161,130,152,Y,mush/veg?,,Y,,
+5/22/25,Sam,Pinfish,PIN165,EO2,10/25/23,69.2,168,133,155,Y,6 shrimp?,,Y,,
+5/22/25,Cheyenne,Pinfish,PIN166,EO2,10/25/23,86.9,178,145,169,Y,mush/veg?,,Y,,
+5/22/25,Sam,Pinfish,PIN167,EO2,10/25/23,85.5,177,138,160,Y,veg,,Y,,
+5/22/25,Cheyenne,Pinfish,PIN168,EO2,10/25/23,69.8,164,135,153,Y,veg,,Y,,
+5/22/25,Sam,Pinfish,PIN169,EO2,10/25/23,68.7,165,133,156,Y,shrimp/gravel,,Y,,
+5/22/25,Cheyenne,Pinfish,PIN170,EO2,10/25/23,91.6,179,145,169,Y,mush/rocks/veg,,Y,,
+5/22/25,Sam,Pinfish,PIN171,EO2,10/25/23,83.9,180,149,166,Y,veg,,Y,,
+5/22/25,Cheyenne,Pinfish,PIN172,EO2,10/25/23,69.1,155,126,148,Y,shrimp/gravel/veg,,Y,,
+5/19/25,Cole,Spot,SPO092,EO2,10/25/23,65,172,132,166,Y,-,,,,
+5/19/25,Cole,Spot,SPO093,EO2,10/25/23,75.9,180,147,174,Y,-,,,,
+5/19/25,Cole,Spot,SPO094,EO2,10/25/23,77,180,144,173,Y,-,,,,
+5/19/25,Cole,Spot,SPO095,EO2,10/25/23,88.7,184,149,179,Y,-,,,,
+5/19/25,Cole,Spot,SPO096,EO2,10/25/23,123.3,201,161,195,Y,sediment,,,,
+5/19/25,Cole,Spot,SPO097,EO2,10/25/23,86.1,189,149,178,Y,sediment,,,,
+5/19/25,Cole,Spot,SPO098,EO2,10/25/23,86.7,187,158,183,Y,-,,,,
+5/19/25,Cole,Spot,SPO099,EO2,10/25/23,87.9,186,151,181,Y,-,,,,
+5/19/25,Cole,Spot,SPO100,EO2,10/25/23,81.7,183,144,176,Y,-,,,,
+5/19/25,Cole,Spot,SPO101,EO2,10/25/23,57.6,169,137,164,Y,-,,,,
+5/28/25,Dannette,Croaker,CRO104,WO3,10/26/23,45.8,167,131,-,Y,-,,Y,Y,Y
+5/28/25,Dannette,Croaker,CRO105,WO3,10/26/23,48.7,170,134,-,Y,mush w/ scale,,Y,Y,Y
+5/28/25,Dannette,Croaker,CRO106,WO3,10/26/23,42.8,166,130,-,Y,mush,,Y,Y,Y
+5/19/25,Cole,Spot,SPO102,EO2,10/25/23,82.8,178,144,175,Y,-,,,,
+5/15/25,Dannette,Thread Herring,THH086,EO2,10/25/23,45.7,175,130,145,Y,mush,small runny liver,,,
+5/15/25,Dannette,Weakfish,WEF025,EO2,10/25/23,189.5,275,226,-,Y,-,,,,
+5/30/25,Dannette,Croaker,CRO107,WI1,10/26/23,57.6,179,138,-,Y,mush,,Y,Y,Y
+5/30/25,Dannette,Croaker,CRO108,WI1,10/26/23,46.1,171,135,-,Y,mush,,Y,Y,Y
+5/30/25,Dannette,Croaker,CRO109,WI1,10/26/23,58.7,184,145,-,Y,mush,,Y,Y,Y
+5/30/25,Dannette,Croaker,CRO110,WI1,10/26/23,47.5,170,139,-,Y,mush,,Y,Y,Y
+5/30/25,Dannette,Croaker,CRO111,WI1,10/26/23,47.3,170,134,-,Y,mush,,Y,Y,Y
+5/30/25,Dannette,Croaker,CRO112,WI1,10/26/23,44.6,170,135,-,Y,snail & mush,,Y,Y,Y
+5/30/25,Dannette,Croaker,CRO113,WI1,10/26/23,48.3,172,135,-,Y,-,,Y,Y,Y
+5/30/25,Dannette,Croaker,CRO114,WI1,10/26/23,50.3,170,140,-,Y,mush,,Y,Y,Y
+5/30/25,Dannette,Croaker,CRO115,WI1,10/26/23,61.8,185,145,-,Y,mush,,Y,Y,Y
+5/30/25,Dannette,Croaker,CRO116,WI1,10/26/23,39.4,160,125,-,Y,mush,,Y,Y,Y
+6/2/25,Dannette,Croaker,CRO117,EI2,3/3/25,99.7,210,170,-,Y,-,,Y,Y,Y
+6/2/25,Dannette,Croaker,CRO118,EI2,3/3/25,85,209,168,-,Y,mush,,Y,Y,Y
+6/2/25,Dannette,Croaker,CRO119,EI2,3/3/25,88.6,209,170,-,Y,-,,Y,Y,Y
+6/2/25,Dannette,Croaker,CRO120,EI2,3/3/25,75.4,200,155,-,Y,-,,Y,Y,Y
+6/2/25,Dannette,Croaker,CRO121,EI2,3/3/25,62.5,185,148,-,Y,-,,Y,Y,Y
+6/2/25,Dannette,Croaker,CRO122,EI2,3/3/25,58.2,180,144,-,Y,-,,Y,Y,Y
+6/2/25,Dannette,Croaker,CRO123,EI2,3/3/25,68.7,186,147,-,Y,mush,,Y,Y,Y
+6/2/25,Dannette,Croaker,CRO124,EI2,3/3/25,81.6,205,162,-,Y,-,,Y,Y,Y
+6/2/25,Dannette,Croaker,CRO125,EI2,3/3/25,43.7,171,135,-,-,mush,,Y,Y,Y
+6/2/25,Dannette,Croaker,CRO126,EI2,3/3/25,81.3,200,158,-,Y,-,,Y,Y,Y
+6/2/25,Dannette,Croaker,CRO127,EI3,3/3/25,30.6,157,125,-,Y,-,,Y,Y,Y
+6/3/25,Dannette,Croaker,CRO128,WO2,4/10/25,42,168,135,-,Y,mush,,Y,Y,Y
+6/3/25,Dannette,Croaker,CRO129,WO2,4/10/25,57.2,180,145,-,Y,mush,,Y,Y,Y
+6/3/25,Dannette,Croaker,CRO130,WO2,4/10/25,55.2,186,150,-,Y,mush,,Y,Y,Y
+6/3/25,Dannette,Croaker,CRO131,WO2,4/10/25,76.9,195,155,-,Y,mush,,Y,Y,Y
+6/3/25,Cheyenne,Croaker,CRO132,WO2,4/10/25,61.2,178,136,-,Y,mush,,Y,Y,Y
+6/3/25,Dannette,Croaker,CRO133,WO2,4/10/25,41,170,135,-,Y,-,,Y,Y,Y
+6/3/25,Cheyenne,Croaker,CRO134,WO2,4/10/25,65.2,190,145,-,Y,legs? crab? shell mush,,Y,Y,Y
+6/3/25,Dannette,Croaker,CRO135,WO2,4/10/25,60,181,144,-,Y,mush,,Y,Y,Y
+6/3/25,Dannette,Croaker,CRO136,WO2,4/10/25,53.5,174,139,-,Y,mush,,Y,Y,Y
+6/3/25,Cheyenne,Croaker,CRO137,WO2,4/10/25,34,159,118,-,Y,mush,,Y,Y,Y
+6/3/25,Cheyenne,Croaker,CRO138,WI1,4/10/25,60.3,190,136,-,Y,mush,,Y,Y,Y
+6/3/25,Dannette,Croaker,CRO139,WI1,4/10/25,48.3,169,137,-,Y,-,,Y,Y,Y
+6/3/25,Dannette,Croaker,CRO140,WI1,4/10/25,33.1,155,121,-,Y,shell,,Y,Y,
+6/3/25,Cheyenne,Croaker,CRO141,WI1,4/10/25,49.4,179,135,-,Y,mush,,Y,Y,
+6/3/25,Dannette,Croaker,CRO142,WI1,4/10/25,35.1,160,131,-,Y,mush,,Y,Y,
+6/3/25,Cheyenne,Croaker,CRO143,WI1,4/10/25,43,168,125,-,Y,mush,,Y,Y,
+6/3/25,Dannette,Croaker,CRO144,WI1,4/10/25,42.9,167,135,-,Y,mush,,Y,Y,
+6/3/25,Cheyenne,Croaker,CRO145,WI1,4/10/25,40.2,163,120,-,Y,mush veg? or leg?,,Y,Y,
+6/3/25,Dannette,Croaker,CRO146,WI1,4/10/25,32.4,162,117,-,Y,-,,Y,Y,
+6/3/25,Cheyenne,Croaker,CRO147,WI1,4/10/25,24.1,151,115,-,Y,mush,,Y,Y,
+6/6/25,Cole,Striped Anchovy,STA186,EI1,10/25/23,13.2,124,104,114,-,-,,,,
+6/6/25,Cole,Striped Anchovy,STA187,EI1,10/25/23,3.3,86,71,79,-,-,,,,
+6/6/25,Cole,Striped Anchovy,STA188,EI1,10/25/23,14.6,121,103,114,Y,-,,,,
+6/6/25,Cole,Striped Anchovy,STA189,EI1,10/25/23,12,123,101,112,Y,-,,,,
+6/6/25,Cole,Striped Anchovy,STA190,EI1,10/25/23,12.1,120,100,111,Y,-,,,,
+6/9/25,Dannette,Croaker,CRO148,WI2,4/10/25,56.7,176,141,-,Y,veg?,,Y,Y,
+6/9/25,Dannette,Croaker,CRO149,WI2,4/10/25,84.6,206,165,-,Y,unk veg,,Y,Y,
+6/9/25,Dannette,Croaker,CRO150,WI2,4/10/25,37.4,165,129,-,Y,-,,Y,Y,
+6/9/25,Dannette,Croaker,CRO151,WI2,4/10/25,46.6,170,135,-,Y,larvae?,,Y,Y,
+6/9/25,Dannette,Croaker,CRO152,WI2,4/10/25,52.5,179,140,-,Y,mush,,Y,Y,
+6/9/25,Dannette,Croaker,CRO153,WI2,4/10/25,52.5,175,142,-,Y,unk veg,,Y,Y,
+6/9/25,Dannette,Croaker,CRO154,WI2,4/10/25,48.4,175,140,-,Y,mush,,Y,Y,
+6/9/25,Dannette,Croaker,CRO155,WI2,4/10/25,59.5,175,140,-,Y,mush,,Y,Y,
+6/9/25,Dannette,Croaker,CRO156,WI2,4/10/25,52.5,174,140,-,Y,unk mush,,Y,Y,
+6/9/25,Dannette,Croaker,CRO157,WI2,4/10/25,48.1,170,139,-,Y,mush,,Y,Y,
+6/9/25,Cole,Striped Anchovy,STA191,EI1,10/25/23,15.9,127,108,120,Y,mush,,,,
+6/9/25,Cole,Striped Anchovy,STA192,EI1,10/25/23,10.1,113,94,104,Y,-,,,,
+6/9/25,Cole,Striped Anchovy,STA193,EI1,10/25/23,11.1,117,98,109,Y,-,,,,
+6/9/25,Cole,Striped Anchovy,STA194,EI1,10/25/23,10.8,117,98,108,Y,-,,,,
+6/9/25,Cole,Striped Anchovy,STA195,EI1,10/25/23,10.6,114,94,104,Y,-,,,,
+6/9/25,Dannette,Croaker,CRO158,WO3,4/10/25,73.5,194,156,-,Y,jelly like & balloon,,Y,Y,
+6/9/25,Dannette,Croaker,CRO159,WO3,4/10/25,82.9,207,169,-,Y,-,,Y,Y,
+6/9/25,Dannette,Croaker,CRO160,WO3,4/10/25,105.2,219,175,-,Y,mush,,Y,Y,
+6/9/25,Cole,Croaker,CRO161,WO3,4/10/25,68.5,192,150,-,Y,striped anchovy,,Y,Y,
+6/9/25,Sam,Croaker,CRO162,WO3,4/10/25,112.1,225,182,-,Y,worm & mush,,Y,Y,
+6/9/25,Sam,Croaker,CRO163,WO3,4/10/25,75.1,192,159,-,Y,Biomatter,,Y,Y,
+6/9/25,Sam,Croaker,CRO164,WO3,4/10/25,71.3,189,152,-,Y,worm & vegbiomatter,,Y,Y,
+6/11/25,Dannette,Croaker,CRO165,WO3,4/10/25,58,185,150,-,Y,mush,small gonads,Y,Y,
+6/11/25,Dannette,Croaker,CRO166,WO3,4/10/25,63.3,190,150,-,Y,worm,,,,
+6/11/25,Dannette,Croaker,CRO167,WO3,4/10/25,76.2,205,165,-,Y,mush,,,,
+6/11/25,Dannette,Croaker,CRO168,EI1,5/14/25,44.9,175,136,-,Y,-,small gonads,,,
+6/11/25,Dannette,Croaker,CRO169,EI1,5/14/25,62,180,142,-,Y,biomatter & worm?,,,,
+6/11/25,Dannette,Croaker,CRO170,EI1,5/14/25,62.1,188,149,-,Y,mush,,,,
+6/11/25,Dannette,Croaker,CRO171,EI1,5/14/25,42.1,169,135,-,Y,mush,,,,
+6/11/25,Dannette,Croaker,CRO172,EI1,5/14/25,40.3,163,130,-,Y,-,,,,
+6/11/25,Dannette,Croaker,CRO173,EI1,5/14/25,42.2,165,130,-,Y,mush,,,,
+6/11/25,Dannette,Croaker,CRO174,EI1,5/14/25,40.9,165,130,-,Y,mush,,,,
+6/11/25,Dannette,Croaker,CRO175,EI1,5/14/25,110.4,215,170,-,Y,mush,,,,
+6/11/25,Dannette,Croaker,CRO176,EI1,5/14/25,53.3,175,135,-,Y,mush,,,,
+6/11/25,Dannette,Croaker,CRO177,EI1,5/14/25,61,173,140,-,Y,mush,,,,
+6/11/25,Dannette,Croaker,CRO178,WO2,5/15/25,52.7,175,137,-,Y,striped anchovy,small gonads,,,
+6/11/25,Dannette,Croaker,CRO179,WO2,5/15/25,65,189,150,-,Y,mush,,,,
+6/11/25,Cole,Croaker,CRO180,WO2,5/15/25,35.5,157,121,-,Y,vegetation,,,,
+6/11/25,Dannette,Croaker,CRO181,WO2,5/15/25,90.9,202,163,-,Y,squid?,,,,
+6/11/25,Cole,Croaker,CRO182,WO2,5/15/25,43.2,167,131,-,Y,vegetation,,,,
+6/11/25,Dannette,Croaker,CRO183,WO2,5/15/25,59.5,180,139,-,Y,-,,,,
+6/11/25,Dannette,Croaker,CRO184,WO2,5/15/25,46.2,171,135,-,Y,vegetation,,,,
+6/11/25,Cole,Croaker,CRO185,WO2,5/15/25,77.9,196,155,-,Y,sediment/mush,,,,
+6/11/25,Dannette,Croaker,CRO186,WO2,5/15/25,54.7,181,143,-,Y,-,,,,
+6/11/25,Cole,Croaker,CRO187,WO2,5/15/25,33.5,155,126,-,Y,fish stomach/mush,,,,
+6/12/25,Ava,Moonfish,MOF075,EI1,10/25/23,23.4,120,90,26,Y,Mush,,Y,,
+6/12/25,Cheyenne,Moonfish,MOF076,EI1,10/25/23,22.2,124,97,113,Y,mush,,Y,,
+6/12/25,Sophia,Moonfish,MOF077,EI1,10/25/23,15.7,114,94,101,Y,biomatter,,Y,,
+6/12/25,Cheyenne,Moonfish ,MOF078,EI1,10/25/23,22,121,94,107,Y,mush,,Y,,
+6/12/25,Sam,Pinfish,PIN173,EI1,10/25/23,32.3,129,100,116,Y,shrimp,,,,
+6/12/25,Cheyenne,Moonfish ,MOF079,EI1,10/25/23,22.5,123,93,107,Y,mush,,Y,,
+6/12/25,Cheyenne,Moonfish ,MOF080,EI1,10/25/23,15.2,117,80,92,Y,mush,,Y,,
+6/12/25,Sam,Moonfish,MOF081,EO1,10/25/23,86,189,152,162,Y,mysis,,Y,,
+6/12/25,Cheyenne,Moonfish,MOF082,EO1,10/25/23,145.6,123.3,188.2,120,Y,mush,,Y,,
+6/12/25,Sophia ,Moonfish ,MOF083,EO1,10/25/23,79.2,179,141,155,Y,mysis,,Y,,
+6/12/25,Cheyenne,Moonfish ,MOF084,EO1,10/25/23,115.7,121.5,164,185,Y,shrimp/mush,,Y,,
+6/12/25,Sam,Moonfish ,MOF085,EO1,10/25/23,81.9,185,151,162,Y,mysis,,Y,,
+6/12/25,Cheyenne,Moonfish ,MOF086,EO1,10/25/23,94.2,192,147,166,Y,mush,,Y,,
+6/12/25,Sophia,Moonfish ,MOF087,EO1,10/25/23,86.3,187,149,159,Y,mush,,Y,,
+6/12/25,Ava,Moonfish,MOF088,EO1,10/25/23,84.7,190,140,120,Y,mysis,,Y,,
+6/12/25,Sophia,Moonfish ,MOF089,EO1,10/25/23,74.9,179,147,159,Y,mush,,Y,,
+6/12/25,Cheyenne,Moonfish ,MOF090,EO1,10/25/23,84.5,189,145,165,Y,mysis,,Y,,
+6/16/25,Dannette,Weakfish,WEA026,EO1,5/14/25,153.3,254,215,-,Y,-,Black spots,,,
+6/16/25,Dalton,Croaker,CRO188,EO1,5/14/25,131.3,230,191,-,Y,-,,,,
+6/16/25,Dannette,Croaker,CRO189,WI2,5/15/25,66.1,185,145,-,Y,crab+mush?,,,,
+6/16/25,Dalton,Croaker,CRO190,WI2,5/15/25,55.1,171,137,-,Y,-,,,,
+6/16/25,Dannette,Croaker,CRO191,WI2,5/15/25,59.5,185,147,-,Y,mush,,,,
+6/16/25,Dalton,Croaker,CRO192,WI2,5/15/25,56.3,169,138,-,Y,-,,,,
+6/16/25,Dannette,Croaker,CRO193,WI2,5/15/25,73.6,199,157,-,Y,mush+snail?,,,,
+6/16/25,Dalton,Croaker,CRO194,WI2,5/15/25,49.7,174,140,-,Y,-,,,,
+6/16/25,Dannette,Croaker,CRO195,WI2,5/15/25,73.8,194,151,-,Y,worm+mush,,,,
+6/16/25,Dannette,Croaker,CRO196,WI2,5/15/25,52.7,171,134,-,Y,worm+mush,,,,
+6/16/25,Dalton,Croaker,CRO197,WI2,5/15/25,102.5,205,170,-,Y,mush,,,,
+6/16/25,Dannette,Croaker,CRO198,WI2,5/15/25,80.6,200,160,-,Y,mush,,,,
+6/16/25,Dannette,Croaker,CRO199,WI1,5/15/25,36.3,155,125,-,Y,mush,,,,
+6/16/25,Dalton,Croaker,CRO200,WI1,5/15/25,29.8,150,121,-,Y,-,,,,
+6/16/25,Dannette,Croaker,CRO201,WI1,5/15/25,33.5,147,121,-,Y,mush,,,,
+6/16/25,Dannette,Croaker,CRO202,WI1,5/15/25,27.8,150,120,-,Y,-,,,,
+6/16/25,Dalton,Croaker,CRO203,WI1,5/15/25,32.1,150,120,-,Y,mush,,,,
+6/16/25,Dalton,Croaker,CRO204,WI1,5/15/25,28.7,141,113,-,Y,-,,,,
+6/16/25,Dalton,Croaker,CRO205,WI1,5/15/25,29.7,140,110,-,N,-,,,,
+6/17/25,Dalton,Croaker,CRO206,WI1,5/15/25,26.1,141,109,-,N,-,,,,
+6/17/25,Dalton,Croaker,CRO207,WI1,5/15/25,31.6,145,112,-,Y,worm,,,,
+6/17/25,Dannette,Croaker,CRO208,WI1,5/15/25,28.1,141,110,-,Y,mush,,,,
+6/17/25,Dannette,Croaker,CRO209,EI1,5/22/24,39.5,165,130,-,Y,-,,,,
+6/17/25,Dalton,Croaker,CRO210,WO2,5/23/24,46.3,167,130,-,Y,-,,,,
+6/17/25,Cheyenne,Alantic Bumper,ATB052,EI1,10/25/23,11.6,105,83,98,Y,mush,,,,
+6/17/25,Sophia,Alantic Bumper,ATB053,EI1,10/25/23,20.6,136,112,121,Y,mush,,,,
+6/17/25,Cheyenne,Alantic Bumper,ATB054,EI1,10/25/23,10.6,107,83,93,Y,mush,,,,
+6/17/25,Sophia,Alantic Bumper,ATB055,EI1,10/25/23,6.5,89,75,81,N,mush,,,,
+6/17/25,Cheyenne,Alantic Bumper,ATB056,EI1,10/25/23,9.6,103,80,92,Y,mush,,,,
+6/17/25,Sophia,Alantic Bumper,ATB057,EI1,10/25/23,7.8,94,77,85,N,mush,,,,
+6/17/25,Cheyenne,Alantic Bumper,ATB058,EI1,10/25/23,8.6,98,74,87,Y,mush,,,,
+6/17/25,Sophia,Alantic Bumper,ATB059,EI1,10/25/23,7.5,91,73,82,N,mush,,,,
+6/17/25,Cheyenne,Alantic Bumper,ATB060,EI1,10/25/23,7.7,90,74,87,N,mush,,,,
+6/17/25,Dalton,Alantic Bumper,ATB061,EO1,10/25/23,64.4,180,145,160,Y,mush,,,,
+6/17/25,Dannette,Alantic Bumper,ATB062,EO1,10/25/23,53.7,190,147,160,Y,fish mush,,,,
+6/17/25,Dalton,Alantic Bumper,ATB063,EO1,10/25/23,52,175,139,156,Y,mush,,,,
+6/17/25,Dannette,Alantic Bumper,ATB064,EO1,10/25/23,53.9,183,143,156,Y,mush,,,,
+6/17/25,Dalton,Alantic Bumper,ATB065,EO1,10/25/23,61.6,187,145,160,Y,mush,,,,
+6/17/25,Dannette,Alantic Bumper,ATB066,EO1,10/25/23,63.5,185,151,169,Y,mush,,,,
+6/17/25,Dannette,Alantic Bumper,ATB067,EO1,10/25/23,62.3,180,141,156,Y,mush,,,,
+6/17/25,Dalton,Alantic Bumper,ATB068,EO1,10/25/23,62.8,190,150,165,Y,mush,,,,
+6/17/25,Dannette,Alantic Bumper,ATB069,EO1,10/25/23,100.5,231,175,191,Y,larval mush,,,,
+6/17/25,Dalton,Alantic Bumper,ATB070,EO1,10/25/23,66.2,185,146,165,Y,mush,,,,
+6/17/25,Sophia,Spot,SPO103,EI1,10/25/23,64.6,172,141,-,Y,mush,,,,
+6/17/25,Cheyenne,Spot,SPO104,EI1,10/25/23,84.6,183,135,-,Y,mush,,,,
+6/17/25,Dalton,Spot,SPO105,EI1,10/25/23,66,173,140,-,Y,-,,,,
+6/17/25,Cheyenne,Spot,SPO106,EI1,10/25/23,68.3,175,132,-,Y,mush & sand,,,,
+6/17/25,Sophia,Spot,SPO107,EI1,10/25/23,73.4,167,139,-,Y,-,,,,
+6/17/25,Dalton,Spot,SPO108,EI1,10/25/23,62.1,174,133,-,Y,-,,,,
+6/17/25,Sophia,Spot,SPO109,EI1,10/25/23,60,165,138,-,Y,mush,,,,
+6/17/25,Cheyenne,Spot,SPO110,EI1,10/25/23,98.8,191,145,-,Y,-,,,,
+6/17/25,Dalton,Spot,SPO111,EI1,10/25/23,95.7,190,149,-,Y,mush,,,,
+6/17/25,Cheyenne,Spot,SPO112,EI1,10/25/23,63.4,173,130,-,-,mush,,,,
+6/18/25,Dannette,Thread Herring,THH087,EI1,10/25/23,19.6,127,101,111,Y,mush,small liver,,,
+6/18/25,Dalton,Thread Herring,THH088,EI1,10/25/23,9.2,105,80,89,-,mush,altered weight,,,
+6/18/25,Dannette,Thread Herring,THH089,EI1,10/25/23,11.7,108,83,93,-,mush,,,,
+6/18/25,Dalton,Thread Herring,THH090,EI1,10/25/23,12.4,112,84,96,-,mush,,,,
+6/18/25,Dannette,Thread Herring,THH091,EI1,10/25/23,13.2,112,86,95,-,mush,,,,
+6/18/25,Dalton,Thread Herring,THH092,EI1,10/25/23,10.4,105,79,87,-,mush,,,,
+6/18/25,Dannette,Thread Herring,THH093,EI1,10/25/23,19.2,123,96,108,Y,mush,,,,
+6/18/25,Dannette,Thread Herring,THH094,EI1,10/25/23,20.3,127,97,108,Y,mush,small liver,,,
+6/18/25,Dalton,Thread Herring,THH095,EI1,10/25/23,12.3,108,82,95,-,mush,,,,
+6/18/25,Dannette,Thread Herring,THH096,EI1,10/25/23,13.4,114,92,100,-,mush,,,,
+6/18/25,Dannette,Striped Anchovy,STA196,EO1,10/25/23,5.2,92,75,82,-,mush,,,,
+6/18/25,Dalton,Pinfish,PIN173,EO1,10/25/23,105.3,193,151,179,Y,mush?,,,,
+6/18/25,Dalton,Weakfish,WEF027,EI1,10/25/23,211.2,272,220,-,Y,-,,,,
+6/18/25,Dalton,Weakfish,WEF028,EI1,10/25/23,193.9,266,218,-,Y,THH + STA,,,,
+6/18/25,Dalton,Weakfish,WEF029,EI1,10/25/23,153,245,195,-,Y,-,,,,
+6/18/25,Dalton,Weakfish,WEF030,EI1,10/25/23,267.8,290,249,-,Y,mush,,,,
+6/19/25,Dalton,Thread Herring,THH097,WO3,10/26/23,24.5,136,105,117,-,mush,,,,
+6/19/25,Cheyenne,Thread Herring,THH098,WO3,10/26/23,44.8,165,128,143,Y,mush,,,,
+6/19/25,Dalton,Thread Herring,THH099,WO3,10/26/23,22.9,136,102,117,-,mush,,,,
+6/19/25,Cheyenne,Thread Herring,THH100,WO3,10/26/23,34.9,158,121,136,-,mush,,,,
+6/19/25,Dalton,Thread Herring,THH101,WO3,10/26/23,12,115,85,95,Y,mush,small liver,,,
+6/19/25,Cheyenne,Thread Herring,THH102,WO3,10/26/23,22.6,133,100,114,-,mush,,,,
