@@ -26,7 +26,7 @@ require(nicheROVER)
 setwd("~/Library/CloudStorage/OneDrive-UNC-Wilmington/Fish Team/BOEM/BOEM Data Analysis/Sams Sandbox/")
 
 ## Load the data
-SIA <- read.csv("boem_bulk_CN_data_250618.csv")
+SIA <- read.csv("boem_bulk_CN_data_250817.csv")
 metadata <- read.csv("boem_sia_metadata_250618.csv")
 
 #checking for dupliates

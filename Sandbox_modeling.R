@@ -16,7 +16,7 @@ library(rstatix)
 setwd("~/Library/CloudStorage/OneDrive-UNC-Wilmington/Fish Team/Data Analysis/Sams Sandbox/")
 
 ## Load the data
-SIA <- read.csv("boem_bulk_CN_data_250618.csv")
+SIA <- read.csv("boem_bulk_CN_data_250817.csv")
 metadata <- read.csv("boem_sia_metadata_250618.csv")
 
 #checking for dupliates
@@ -194,6 +194,7 @@ ggplot(data.CRO, aes(x = collection.date, y = d15N)) +
   theme(axis.text.x = element_text(angle = 45, hjust = 1))
 
 # Boxplot by site and date
+
 ggplot(data.CRO, aes(x = collection.date, y = c.n, fill = site)) +
   geom_boxplot(position = position_dodge(width = 0.8)) +
   labs(title = "C:N values by Site and Date")
