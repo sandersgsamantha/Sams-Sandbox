@@ -26,13 +26,14 @@ require(nicheROVER)
 setwd("~/Library/CloudStorage/OneDrive-UNC-Wilmington/Fish Team/BOEM/BOEM Data Analysis/Sams Sandbox/")
 
 ## Load the data
-SIA <- read.csv("boem_bulk_CN_data_250817.csv")
-metadata <- read.csv("boem_sia_metadata_250618.csv")
+SIA <- read.csv("boem_bulk_CN_data250825.csv")
+metadata <- read.csv("boem_sia_metadata_250814.csv")
 
 #checking for dupliates
 duplicated(metadata$fish.id)
 
-fish.bulk <- merge(SIA,metadata, by ="fish.id") # merge two datasets by "fish.id" column
+
+fish.bulk <- merge(SIA,metadata, by="fish.id") # merge two datasets by "fish.id" column
 
 str(fish.bulk) # ensure data in correct formats. 
 
@@ -134,7 +135,7 @@ Cvsl<-ggplot(fish.bulk, aes(sl.mm/10, d13C)) +
   theme(strip.text = element_text(face = "italic")) +
   guides(fill = guide_legend(title = "Species", title.position = "top", title.hjust = 0.5)) +
   facet_wrap(~species, scales = "free_x", nrow=1) 
-
+plot(Cvsl)
 ggarrange(Cvsl,Nvsl, ncol=1, nrow=2)
 
 
