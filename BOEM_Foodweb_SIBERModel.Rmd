@@ -1,0 +1,62 @@
+---
+title: "BOEM_Foodweb_BayesianModeling"
+output: pdf_document
+date: "2025-09-02"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+
+When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+
+```{r cars}
+summary(cars)
+```
+
+## Load Packages and Data
+```{r}
+require(ggplot2)
+require(SIBER)
+require(dplyr)
+require(tidyr)
+require(ggpubr)
+require(nicheROVER)
+
+setwd("~/Library/CloudStorage/OneDrive-UNC-Wilmington/Fish Team/BOEM/Data Analysis/Sams Sandbox/")
+
+## Load the data
+SIA <- read.csv("boem_bulk_CN_data250825.csv")
+metadata <- read.csv("boem_sia_metadata_250814.csv")
+
+#checking for dupliates
+duplicated(metadata$fish.id)
+
+fish.bulk <- merge(SIA,metadata, by="fish.id") # merge two datasets by "fish.id" column
+
+str(fish.bulk) # ensure data in correct formats. 
+
+# data that will be assigned unique colors or shapes generally need to be a factor.
+fish.bulk$fish.id <- as.factor(fish.bulk$fish.id) 
+fish.bulk$species <- as.factor(fish.bulk$species) 
+fish.bulk$site <- as.factor(fish.bulk$site)
+
+# columns with numbers and "NA" are often initially assigned as "chr = character" or "int = integer (i.e., no decimal points)" but should be "num = numeric" (allows decimal points)
+fish.bulk$weight.g <- as.numeric(fish.bulk$weight.g)
+fish.bulk$tl.mm <- as.numeric(fish.bulk$tl.mm)
+fish.bulk$sl.mm <- as.numeric(fish.bulk$sl.mm)
+fish.bulk$fl.mm <- as.numeric(fish.bulk$fl.mm)
+# manually check the data set to ensure modifications were applied correctly
+# remove non-target species
+fish.bulk <- subset(fish.bulk, species != "Lizardfish" & species != "Pigfish") 
+
+# fix species names
+levels(fish.bulk$species)[2] <- "Atlantic Croaker"
+levels(fish.bulk$species)[5] <- "Moonfish"
+
+```
+

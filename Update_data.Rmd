@@ -1,0 +1,94 @@
+---
+title: "Update CSV File BOEM"
+author: "Sam Sanders"
+date: "2025-09-02"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+## INTRODUCTION
+This markdown file is to easily update data and create new columns without adding extra text to SIBER or NicheROVER R code. File name will be updated as "date_fish.bulk.csv" file names are the only thing that should be changed. 
+
+## LOAD DATA and LIBRARIES
+```{r, echo=FALSE}
+## Load necessary packages
+require(ggplot2)
+require(dplyr)
+require(tidyr)
+require(ggpubr)
+library(tidyverse)
+
+setwd("~/Library/CloudStorage/OneDrive-UNC-Wilmington/Fish Team/BOEM/Data Analysis/Sams Sandbox/")
+
+## Load the data
+SIA <- read.csv("250826_boem_bulk_CN_data.csv")
+metadata <- read.csv("250814_boem_sia_metadata.csv")
+#checking for dupliates
+duplicated(metadata$fish.id)
+
+fish.bulk <- merge(SIA,metadata, by ="fish.id") # merge two datasets by "fish.id" column
+```
+## UPDATE COLUMNS 
+```{r}
+#### ADDING MONTH & SEASON COLUMN ####
+#create a column for months based off "collection.date"
+#need to first make "collection data at object
+class(fish.bulk$collection.date) #classified as a character
+fish.bulk$collection.date <-as.Date(fish.bulk$collection.date, format= "%m/%d/%Y")
+#new column object <- as.Date = read as date from (fish.bulk$collection.date, and its in X format)
+#now add a month Column
+fish.bulk<- fish.bulk %>% 
+  mutate(month= format(collection.date, "%B"))
+
+#create a column for seasons
+fish.bulk<- fish.bulk %>% 
+  mutate(season=case_when(
+    month %in% c("December", "January","February") ~ "Winter",
+    month %in% c("March", "April","May") ~ "Spring",
+    month %in% c("June", "July","August") ~ "Summer",
+    month %in% c("September", "October", "November") ~"Autumn"
+  ))
+
+#create column for month-year
+fish.bulk$month.year <- format(fish.bulk$collection.date, "%B-%y")
+
+#create a column for east vs west
+# Create the 'east_vs_west' column
+fish.bulk <- fish.bulk %>%
+  mutate(east_vs_west = case_when( str_detect(site, "E") ~ "East",  # Checks if the 'site' column contains the word "East"
+ str_detect(site, "W") ~ "West",  # Checks if the 'site' column contains the word "West"
+ TRUE ~ "Other" ))  # Assigns "Other" to any remaining sites
+  
+#create a column for in vs out
+fish.bulk <- fish.bulk %>%
+  mutate(
+    in_vs_out = case_when(
+      str_detect(site, "I") ~ "In",  # Checks if the 'site' column contains the word "I"
+      str_detect(site, "O") ~ "Out",  # Checks if the 'site' column contains the word "O"
+      TRUE ~ "Other"                     # Assigns "Other" to any remaining sites
+    ))
+#shoal distance
+fish.bulk <- fish.bulk %>%
+  mutate(
+    distance = case_when(
+      str_detect(site, "1") ~ "inshore",  
+      str_detect(site, "2") ~ "midshore",
+      str_detect(site,"3")~ "offshore",
+      TRUE ~ "Other"))
+
+#create a column for east.in east.out west.in west.out
+fish.bulk <- fish.bulk %>%
+  mutate(
+    shoal.spot = paste0(east_vs_west, ".", in_vs_out))
+
+#view data
+head(fish.bulk)
+```
+## Export
+```{r}
+write.csv(fish.bulk, "~/Library/CloudStorage/OneDrive-UNC-Wilmington/Fish Team/BOEM/Data Analysis/Sams Sandbox/250902_fish.bulk.csv", row.names = FALSE)
+
+```
+

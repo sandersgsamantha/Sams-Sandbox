@@ -101,6 +101,7 @@ fish.bulk$fl.mm <- as.numeric(fish.bulk$fl.mm)
 
 # manually check the data set to ensure modifications were applied correctly
 str(fish.bulk)
+summary(fish.bulk$species)
 # remove non-target species
 fish.bulk <- subset(fish.bulk, species != "Lizardfish" & species != "Pigfish") 
 

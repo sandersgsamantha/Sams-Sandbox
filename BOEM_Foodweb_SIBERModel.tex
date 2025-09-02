@@ -1,0 +1,209 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{article}
+\usepackage{amsmath,amssymb}
+\usepackage{iftex}
+\ifPDFTeX
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math} % this also loads fontspec
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+\usepackage{lmodern}
+\ifPDFTeX\else
+  % xetex/luatex font selection
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\usepackage[margin=1in]{geometry}
+\usepackage{color}
+\usepackage{fancyvrb}
+\newcommand{\VerbBar}{|}
+\newcommand{\VERB}{\Verb[commandchars=\\\{\}]}
+\DefineVerbatimEnvironment{Highlighting}{Verbatim}{commandchars=\\\{\}}
+% Add ',fontsize=\small' for more characters per line
+\usepackage{framed}
+\definecolor{shadecolor}{RGB}{248,248,248}
+\newenvironment{Shaded}{\begin{snugshade}}{\end{snugshade}}
+\newcommand{\AlertTok}[1]{\textcolor[rgb]{0.94,0.16,0.16}{#1}}
+\newcommand{\AnnotationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\AttributeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\BaseNTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\BuiltInTok}[1]{#1}
+\newcommand{\CharTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\CommentTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\CommentVarTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ConstantTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\ControlFlowTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\DataTypeTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{#1}}
+\newcommand{\DecValTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\DocumentationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\ErrorTok}[1]{\textcolor[rgb]{0.64,0.00,0.00}{\textbf{#1}}}
+\newcommand{\ExtensionTok}[1]{#1}
+\newcommand{\FloatTok}[1]{\textcolor[rgb]{0.00,0.00,0.81}{#1}}
+\newcommand{\FunctionTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\ImportTok}[1]{#1}
+\newcommand{\InformationTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\newcommand{\KeywordTok}[1]{\textcolor[rgb]{0.13,0.29,0.53}{\textbf{#1}}}
+\newcommand{\NormalTok}[1]{#1}
+\newcommand{\OperatorTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\OtherTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{#1}}
+\newcommand{\PreprocessorTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textit{#1}}}
+\newcommand{\RegionMarkerTok}[1]{#1}
+\newcommand{\SpecialCharTok}[1]{\textcolor[rgb]{0.81,0.36,0.00}{\textbf{#1}}}
+\newcommand{\SpecialStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\StringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\VariableTok}[1]{\textcolor[rgb]{0.00,0.00,0.00}{#1}}
+\newcommand{\VerbatimStringTok}[1]{\textcolor[rgb]{0.31,0.60,0.02}{#1}}
+\newcommand{\WarningTok}[1]{\textcolor[rgb]{0.56,0.35,0.01}{\textbf{\textit{#1}}}}
+\usepackage{graphicx}
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+% Set default figure placement to htbp
+\def\fps@figure{htbp}
+\makeatother
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{-\maxdimen} % remove section numbering
+\usepackage{bookmark}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\urlstyle{same}
+\hypersetup{
+  pdftitle={BOEM\_Foodweb\_SIBERModeling},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+
+\title{BOEM\_Foodweb\_SIBERModeling}
+\author{}
+\date{\vspace{-2.5em}2025-09-02}
+
+\begin{document}
+\maketitle
+
+\subsection{Introduction}\label{introduction}
+
+This analysis exlpores d13C and d15N stable isotope values across fish
+species along FPS by seasons, sites, years etc. The goal here is to
+visualize isotopic variation, assessing isotopic niche space, and
+testing trophic differences.
+
+\subsection{Load Packages}\label{load-packages}
+
+\begin{Shaded}
+\begin{Highlighting}[]
+\FunctionTok{library}\NormalTok{(tidyverse)}
+\FunctionTok{library}\NormalTok{(SIBER)}
+\FunctionTok{library}\NormalTok{(lme4)}
+\end{Highlighting}
+\end{Shaded}
+
+\subsection{R Markdown}\label{r-markdown}
+
+This is an R Markdown document. Markdown is a simple formatting syntax
+for authoring HTML, PDF, and MS Word documents. For more details on
+using R Markdown see \url{http://rmarkdown.rstudio.com}.
+
+When you click the \textbf{Knit} button a document will be generated
+that includes both content as well as the output of any embedded R code
+chunks within the document. You can embed an R code chunk like bellow:
+
+Note that the \texttt{echo\ =\ FALSE} parameter was added to the code
+chunk to prevent printing of the R code that generated the plot.
+
+\subsection{Create Palette and LOAD
+Data}\label{create-palette-and-load-data}
+
+\begin{verbatim}
+##    Length     Class      Mode 
+##         4 character character
+\end{verbatim}
+
+\begin{verbatim}
+## Rows: 722
+## Columns: 13
+## $ tray           <chr> "250327_BOEM_2", "250327_BOEM_2", "250327_BOEM_2", "250~
+## $ fish.id        <chr> "MOF001", "MOF002", "MOF003", "MOF004", "MOF005", "MOF0~
+## $ tray.position  <chr> "C10", "C11", "C12", "D1", "D5", "D6", "D7", "D8", "D9"~
+## $ sample.mass.mg <dbl> 1.00, 1.03, 1.05, 0.99, 1.03, 1.03, 1.04, 1.00, 0.98, 0~
+## $ c.content.mg   <dbl> 0.45, 0.47, 0.46, 0.45, 0.47, 0.47, 0.48, 0.46, 0.45, 0~
+## $ c.content.perc <dbl> 45.52, 45.62, 44.48, 45.29, 45.67, 45.69, 46.32, 46.52,~
+## $ d13C           <dbl> -18.06, -18.46, -18.14, -18.76, -18.35, -18.97, -18.33,~
+## $ n.content.mg   <dbl> 0.14, 0.14, 0.14, 0.14, 0.14, 0.14, 0.15, 0.14, 0.14, 0~
+## $ n.content.perc <dbl> 14.36, 13.92, 13.68, 13.93, 13.62, 13.86, 14.30, 14.42,~
+## $ d15N           <dbl> 8.46, 10.95, 10.04, 10.17, 9.79, 9.48, 10.62, 9.48, 9.8~
+## $ c.n            <dbl> 3.17, 3.28, 3.25, 3.25, 3.35, 3.30, 3.24, 3.23, 3.23, 3~
+## $ duplicate      <chr> "", "", "", "", "", "", "", "", "Y", "Y", "", "", "", "~
+## $ X              <lgl> NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA, NA,~
+\end{verbatim}
+
+\begin{verbatim}
+##      tray             fish.id          tray.position      sample.mass.mg  
+##  Length:722         Length:722         Length:722         Min.   :0.6000  
+##  Class :character   Class :character   Class :character   1st Qu.:0.7000  
+##  Mode  :character   Mode  :character   Mode  :character   Median :0.7600  
+##                                                           Mean   :0.8139  
+##                                                           3rd Qu.:0.9800  
+##                                                           Max.   :1.1400  
+##                                                           NA's   :2       
+##   c.content.mg    c.content.perc       d13C         n.content.mg   
+##  Min.   :0.1300   Min.   :17.82   Min.   :-26.22   Min.   :0.0400  
+##  1st Qu.:0.3100   1st Qu.:44.03   1st Qu.:-19.72   1st Qu.:0.1000  
+##  Median :0.3400   Median :44.84   Median :-18.73   Median :0.1100  
+##  Mean   :0.3654   Mean   :44.94   Mean   :-18.98   Mean   :0.1144  
+##  3rd Qu.:0.4400   3rd Qu.:45.81   3rd Qu.:-18.11   3rd Qu.:0.1400  
+##  Max.   :0.5200   Max.   :73.17   Max.   :-11.71   Max.   :0.1700  
+##  NA's   :2        NA's   :2       NA's   :2        NA's   :2       
+##  n.content.perc       d15N            c.n         duplicate        
+##  Min.   : 5.67   Min.   : 4.16   Min.   :3.050   Length:722        
+##  1st Qu.:13.76   1st Qu.:10.48   1st Qu.:3.170   Class :character  
+##  Median :14.01   Median :11.60   Median :3.190   Mode  :character  
+##  Mean   :14.06   Mean   :11.41   Mean   :3.197                     
+##  3rd Qu.:14.36   3rd Qu.:12.48   3rd Qu.:3.220                     
+##  Max.   :23.32   Max.   :16.27   Max.   :3.580                     
+##  NA's   :2       NA's   :2       NA's   :2                         
+##     X          
+##  Mode:logical  
+##  NA's:722      
+##                
+##                
+##                
+##                
+## 
+\end{verbatim}
+
+\subsection{Exploratory Plot}\label{exploratory-plot}
+
+``` \{\}
+
+\end{document}

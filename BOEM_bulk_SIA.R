@@ -23,7 +23,7 @@ require(nicheROVER)
 #setwd("/Users/...") # If on a Mac
 #setwd("~/Desktop/KI_fish/data")
 
-setwd("~/Library/CloudStorage/OneDrive-UNC-Wilmington/Fish Team/BOEM/BOEM Data Analysis/Sams Sandbox/")
+setwd("~/Library/CloudStorage/OneDrive-UNC-Wilmington/Fish Team/BOEM/Data Analysis/Sams Sandbox/")
 
 ## Load the data
 SIA <- read.csv("boem_bulk_CN_data250825.csv")
@@ -55,9 +55,6 @@ fish.bulk <- subset(fish.bulk, species != "Lizardfish" & species != "Pigfish")
 
 # fix species names
 levels(fish.bulk$species)[2] <- "Atlantic Croaker"
-
-#fish.bulk$dist_cat <- factor(fish.bulk$dist_cat, level = c("Very Low", "Medium", "Very High"))
-#fish.bulk$species <- factor(fish.bulk$species, level = c("LU.FULV", "CE.UROD", "LU.BOHA","CE.ARGU","CA.MELA","AP.FURC"))
 
 ### Bulk SIA summary statistics  -----------------------------------------------------------
 
@@ -151,8 +148,6 @@ levels(fish.bulk.SEA$species) <- c("1", "2", "3","4","5","6","7","8") # [1] "Atl
 fish.bulk.SEA$species <- as.character(fish.bulk.SEA$species)
 
 unique(fish.bulk.SEA$species)
-data("demo.siber.data")
-
 
 # Subset and reorganize data for d13C values, d15N values, and species
 fish.bulk.SEA <- fish.bulk.SEA[,c(7,10,16)]
